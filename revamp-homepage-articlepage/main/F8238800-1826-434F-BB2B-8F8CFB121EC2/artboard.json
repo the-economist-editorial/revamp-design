@@ -126,6 +126,10 @@
     {
       "class": "symbolInstance",
       "id": "0A583EB8-9877-4DD3-811B-40B3FC3434C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B66631E-3A22-470B-945D-1513DA404741"
     }
   ],
   "layout": {
@@ -138,7 +142,7 @@
     "gutterWidth": 30,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1308
