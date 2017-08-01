@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGOjtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QDwcIDxAYGR0lJicoKTA0NlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgA6AA28QEiAUACAAUwB0AG8AcgB5ACAAdABpAHQAbABlACAAaABlAHIAZdMREgoTFRdXTlMua2V5c1pOUy5vYmplY3RzoRSABKEWgAWADV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXSChobHF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgAyABtMREgoeISSiHyCAB4AIoiIjgAmACoALXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABfEBBNaWxvU2VyaWZQcm8tSXRh0iorLC1aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjLC4vXE5TRGljdGlvbmFyeVhOU09iamVjdNIqKzEyXxAQTlNGb250RGVzY3JpcHRvcqIzL18QEE5TRm9udERlc2NyaXB0b3LSKisuNaIuL9IqKzc4XxASTlNBdHRyaWJ1dGVkU3RyaW5nojkvXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Tw9VHJvb3SAAQAIABEAGgAjAC0AMgA3AEkATwBWAF8AZgBzAHUAdwB5AKAApwCvALoAvAC+AMAAwgDEAOYA6wEIAQoBDAETARYBGAEaAR0BHwEhASMBOQFPAVgBawFwAXsBhAGaAZ4BqwG0AbkBzAHPAeIB5wHqAe8CBAIHAhwCLgIxAjYAAAAAAAACAQAAAAAAAAA+AAAAAAAAAAAAAAAAAAACOA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "DF55CDF0-C4E9-4284-A0BD-B8D9E31AC7ED",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 276.5,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 3}, {111, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "— Story title here",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A44D2FEF-391E-4310-A6FB-C6390B79A3E7"
+  },
+  "textBehaviour": 1
+}
