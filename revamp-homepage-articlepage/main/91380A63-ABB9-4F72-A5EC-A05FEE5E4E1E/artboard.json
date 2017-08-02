@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4664,
+    "height": 4661,
     "width": 960,
     "x": 2952,
     "y": 186
@@ -138,7 +138,7 @@
     "gutterWidth": 30,
     "guttersOutside": false,
     "horizontalOffset": 0,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
     "totalWidth": 960
