@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -94,18 +94,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 81.5,
+    "columnWidth": 67.5,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 30,
+    "gutterWidth": 10,
     "guttersOutside": false,
-    "horizontalOffset": -494,
-    "isEnabled": false,
-    "numberOfColumns": 12,
+    "horizontalOffset": 10,
+    "isEnabled": true,
+    "numberOfColumns": 4,
     "rowHeightMultiplication": 5,
-    "totalWidth": 1308
+    "totalWidth": 300
   },
   "name": "320px (min width)",
   "nameIsFixed": true,
