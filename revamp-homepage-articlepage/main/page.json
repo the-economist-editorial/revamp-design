@@ -80,16 +80,8 @@
       "id": "FF47BE8D-E6CB-41FE-9D1E-A7228BD4B821"
     },
     {
-      "class": "bitmap",
-      "id": "44EB785D-3F3A-405E-A914-CB33261481A1"
-    },
-    {
-      "class": "bitmap",
-      "id": "B8D06CCB-8565-4A29-8E6C-C618EF8C964B"
-    },
-    {
-      "class": "bitmap",
-      "id": "A26B3217-D11B-48BF-B3B5-E4F7C76B81D9"
+      "class": "symbolInstance",
+      "id": "0B1666BA-9744-41ED-8AFE-ECF32B7D13D2"
     }
   ],
   "layout": {
