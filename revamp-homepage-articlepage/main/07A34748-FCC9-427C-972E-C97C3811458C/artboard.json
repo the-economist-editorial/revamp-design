@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -102,18 +102,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 81.5,
+    "columnWidth": 65.55555555555556,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 30,
+    "gutterWidth": 15,
     "guttersOutside": false,
-    "horizontalOffset": -284,
-    "isEnabled": false,
-    "numberOfColumns": 12,
+    "horizontalOffset": 15,
+    "isEnabled": true,
+    "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
-    "totalWidth": 1308
+    "totalWidth": 710
   },
   "name": "740px (between-small-medium) Article",
   "nameIsFixed": true,
@@ -148,7 +148,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 201,
+    "base": 0,
     "guides": [
     ]
   }

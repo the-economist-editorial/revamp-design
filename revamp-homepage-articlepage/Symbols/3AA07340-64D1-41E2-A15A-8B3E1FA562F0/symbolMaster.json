@@ -7,7 +7,7 @@
     "green": 0.2431372549019608,
     "red": 0.2196078431372549
   },
-  "changeIdentifier": 483,
+  "changeIdentifier": 484,
   "do_objectID": "3AA07340-64D1-41E2-A15A-8B3E1FA562F0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
