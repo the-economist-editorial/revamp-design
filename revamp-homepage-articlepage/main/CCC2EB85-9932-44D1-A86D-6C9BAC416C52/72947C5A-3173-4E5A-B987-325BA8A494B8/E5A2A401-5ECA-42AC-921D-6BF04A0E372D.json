@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 4,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 4,
-  "masterInfluenceEdgeMinYPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "component-footer",
   "nameIsFixed": false,
   "resizingConstraint": 63,

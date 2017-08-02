@@ -16,7 +16,7 @@
     "height": 347,
     "width": 600,
     "x": 0,
-    "y": 5308
+    "y": 5316
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 4,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 4,
-  "masterInfluenceEdgeMinYPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "component-footer",
   "nameIsFixed": false,
   "resizingConstraint": 63,
