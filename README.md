@@ -11,21 +11,21 @@
 * Click __'clone a repository'__
 
 Enter the repository url in this case:https://github.com/russEco/revamp-design.git
-and then set a local path to somewhere that makes sense on your HD
+and then set a local path to somewhere that makes sense on your HD.
 
  * Click __'clone'__
 
-The repository should now download to the local path that you set
+The repository should now download to the local path that you set.
 
 ___________________________________________________________
 
 ## Working with existing sketch files ##
 
-You should now see a list or at least one sketch file listed on the left
+You should now see a list or at least one sketch file listed on the left.
 
 Click on a chosen file and select __'regenerate sketch file'__
 
-You should now be able to click __'open file'__ on the left of regenerate sketch file option, click this and the sketch file should open in sketch
+You should now be able to click __'open file'__ on the left of regenerate sketch file option, click this and the sketch file should open in sketch.
 
 You can now edit the file but be aware you are editing the file in whats known as the master branch which is the default branch created when you initialise a git project.
 Ideally you should work in whats called a branch which is effectively a copy of the master branch. You should make your edits in a branch and then when your happy merge these back to the master branch. This basically insures that changes can be triaged before merging them.
