@@ -34,9 +34,10 @@ ___________________________________________________________
 
 ## Creating a branch ##
 
-You should see in the top navigation in Kactus 'current branch' which should have 'master' listed
+You should see in the top navigation in Kactus 'current branch' which should have 'master' listed.
+
 Go to the app menu bar at the top of the screen and select 'branch/New Branch...'
-You will be asked to create a branch name it something that pertains to your change something like 'font-changes' for example (no spaces in branch names are allowed).
+You will be asked to create a branch name, name it something that pertains to your change something like 'font-changes' for example (no spaces in branch names are allowed).
 
 Click __'create a branch'__
 
