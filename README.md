@@ -27,8 +27,9 @@ Click on a chosen file and select __'regenerate sketch file'__
 
 You should now be able to click __'open file'__ on the left of regenerate sketch file option, click this and the sketch file should open in sketch.
 
-You can now edit the file but be aware you are editing the file in whats known as the master branch which is the default branch created when you initialise a git project.
-Ideally you should work in whats called a branch which is effectively a copy of the master branch. You should make your edits in a branch and then when your happy merge these back to the master branch. This basically insures that changes can be triaged before merging them.
+You can now edit the file but be aware you are editing the file in what's known as the master branch which is the default version created when you initialise a git project.
+
+Ideally you should work on your own version on a personal branch, which is effectively a copy of the master branch. You should make your edits in this branch and then when your happy merge these back to the master branch. This basically insures that changes can be triaged before merging them.
 
 ___________________________________________________________
 
@@ -51,7 +52,7 @@ When you are done select __'File/Save'__ in sketch.
 
 ## Committing a change ##
 
-Return to Kactus and you should see in the bottom left a list of changed files there might appear to be a lot of changes more than you thought but this is just because of the nature Kactus works it almost has to break down the file to create the changes git needs to track. So you may have just change a font but it will list 100's of changes this is fine just ignore the amount.
+Return to Kactus and you should see in the bottom left a list of changed files, there might appear to be more changes than you thought but this is just because Kactus breaks down the file to create the changes git needs to track. So you may have just changed a font but it will list 100's of changes, this is fine just ignore the amount.
 
 The changes should be selected by default if not select all the changes with the checkbox at the top.
 
@@ -65,7 +66,7 @@ ______________________________________
 
 ## Creating a pull request ##
 
-You have now published your branch to the remote repository on github in other words you have uploaded you proposed changes to be added to the master branch or master sketch file.
+You have now published your branch to the remote repository on github, in other words you have uploaded your proposed changes to be added to the master branch or master sketch file.
 
 Now we need to create a 'pull request' this basically sets up a staging point where the changes can be checked.
 
