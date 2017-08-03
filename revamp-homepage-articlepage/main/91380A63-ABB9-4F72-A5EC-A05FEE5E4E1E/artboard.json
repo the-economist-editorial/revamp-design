@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4661,
+    "height": 4598,
     "width": 960,
     "x": 2952,
     "y": 186
@@ -84,16 +84,12 @@
       "id": "8F8F98C0-6B41-430E-998D-5DCF4E30EF7F"
     },
     {
-      "class": "shapeGroup",
-      "id": "9EB0237A-9861-4A13-9692-2976FB1719B4"
-    },
-    {
       "class": "symbolInstance",
       "id": "56695C8F-D344-4485-B18C-5D6505EF680E"
     },
     {
       "class": "symbolInstance",
-      "id": "56C05BDA-0DBF-484A-A59F-075D3BB2C250"
+      "id": "CB7BB931-926B-4835-99DE-2927D5D829C9"
     },
     {
       "class": "text",
@@ -126,22 +122,26 @@
     {
       "class": "symbolInstance",
       "id": "508EED1E-1AEA-4507-BA9E-F4DFAC7EEE3F"
+    },
+    {
+      "class": "group",
+      "id": "296E10C1-BE2C-4C4C-B572-6FD197B3FE28"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 80,
+    "columnWidth": 88.33333333333333,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 30,
+    "gutterWidth": 16.875,
     "guttersOutside": false,
-    "horizontalOffset": 0,
+    "horizontalOffset": 15,
     "isEnabled": false,
     "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
-    "totalWidth": 960
+    "totalWidth": 930
   },
   "name": "960px (large)",
   "nameIsFixed": true,
@@ -178,6 +178,7 @@
     "_class": "rulerData",
     "base": 1,
     "guides": [
+      95
     ]
   }
 }

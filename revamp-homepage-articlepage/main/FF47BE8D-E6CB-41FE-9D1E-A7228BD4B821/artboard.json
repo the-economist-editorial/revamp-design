@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 7499,
+    "height": 7361,
     "width": 320,
     "x": 10150,
     "y": 186
@@ -81,6 +81,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "68A2BAC9-C120-4AE6-B134-35B75945685C"
+    },
+    {
+      "class": "symbolInstance",
       "id": "9E72537F-C339-4E68-9441-EC5FB2A1064D"
     },
     {
@@ -138,6 +142,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      72
     ]
   }
 }

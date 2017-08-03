@@ -127,13 +127,13 @@
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 30,
+    "gutterWidth": 26.25,
     "guttersOutside": false,
-    "horizontalOffset": 0,
+    "horizontalOffset": 15,
     "isEnabled": false,
     "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
-    "totalWidth": 960
+    "totalWidth": 930
   },
   "name": "960px (large) Article",
   "nameIsFixed": true,

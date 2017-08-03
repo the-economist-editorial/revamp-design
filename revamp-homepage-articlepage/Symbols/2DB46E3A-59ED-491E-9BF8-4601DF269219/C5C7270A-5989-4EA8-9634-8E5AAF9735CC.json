@@ -30,6 +30,10 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "teaser-single-more-stories",
   "nameIsFixed": false,
+  "overrides": {
+    "02B5CA7E-F72E-4315-822B-CD4FB728B8E9": {
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1391,
+  "changeIdentifier": 1411,
   "do_objectID": "99D85ED7-3F45-41A0-B7B2-6733B4D13A8D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,7 +29,7 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 15,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,

@@ -16,7 +16,7 @@
     "height": 121,
     "width": 580,
     "x": 10,
-    "y": 63
+    "y": 61
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,9 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "component-article-header",
   "nameIsFixed": false,
+  "overrides": {
+    "9CFC4A5B-ECF9-465D-B3E5-3471D32B7297": "A longer title here "
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

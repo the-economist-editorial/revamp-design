@@ -12,11 +12,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 957,
-    "width": 975,
-    "x": 0,
-    "y": 1496
+    "constrainProportions": true,
+    "height": 912.8307692307692,
+    "width": 930,
+    "x": 15,
+    "y": 1476.4892578125
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,

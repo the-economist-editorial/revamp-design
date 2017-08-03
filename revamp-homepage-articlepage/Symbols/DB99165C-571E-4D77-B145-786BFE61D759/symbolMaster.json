@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21234,
+  "changeIdentifier": 21583,
   "do_objectID": "DB99165C-571E-4D77-B145-786BFE61D759",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 140,
+    "height": 94,
     "width": 320,
     "x": 7581,
     "y": 963
@@ -59,7 +59,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A460B6F2-1A62-463A-AAEC-3DB66B0C4EDB"
+      "id": "07F4CB20-D534-4FFA-B102-F6C7E36FCA11"
     }
   ],
   "layout": {

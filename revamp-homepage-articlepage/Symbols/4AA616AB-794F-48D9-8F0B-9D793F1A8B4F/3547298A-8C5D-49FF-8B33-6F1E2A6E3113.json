@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "56C05BDA-0DBF-484A-A59F-075D3BB2C250",
+  "do_objectID": "3547298A-8C5D-49FF-8B33-6F1E2A6E3113",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 407,
-    "width": 960,
+    "height": 60,
+    "width": 974,
     "x": 0,
-    "y": 2332
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,13 +24,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 22,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "component-carousel",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "name": "component-header",
+  "nameIsFixed": true,
+  "overrides": {
+    "0958D3A4-2C60-42DC-9FF0-4D52E4AA21D8": {
+      "E985F43E-805F-4B2A-889D-8A15ED0BC3D8": "Editor’s picks"
+    }
+  },
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -40,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "063DF3C1-1AE4-4C52-94EF-2CC2FD870161",
+  "symbolID": "0EA04659-6B49-4704-B2D8-F006F9AE1E2D",
   "verticalSpacing": 0
 }

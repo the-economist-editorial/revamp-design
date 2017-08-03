@@ -25,13 +25,13 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 3,
   "name": "teaser__group-text",
   "nameIsFixed": false,
   "overrides": {
-    "B9AE7BB1-7A35-4E2E-A645-832551B77C88": "A long fly title that will run on to more than just a single line"
+    "4B286E54-D44B-40F2-A600-6BEAE7E86560": "Fly titleto more than just a single line"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,6 +43,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "086D3A41-C5DE-4478-84DC-69C6AD029994",
+  "symbolID": "B3CF79C1-67EF-456C-AF65-9701A0B8B5DC",
   "verticalSpacing": 0
 }
