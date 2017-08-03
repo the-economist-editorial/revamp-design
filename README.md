@@ -1,4 +1,4 @@
-# revamp-design - using Kactus with sketch - sketch version control
+# Kactus - sketch version control
 
 ## Initial setup: ##
 
