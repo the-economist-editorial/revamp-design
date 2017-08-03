@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "BB54D60E-444B-4BA9-A1DB-26495A82DB63",
+  "do_objectID": "3C50D6A8-0ED2-404A-938C-76CCCC936BE6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 47.875,
-    "width": 600,
-    "x": 0,
-    "y": 0
+    "height": 30,
+    "width": 30,
+    "x": 286,
+    "y": 10
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,9 +28,12 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "component-navigation",
-  "nameIsFixed": true,
-  "resizingConstraint": 18,
+  "name": "Navigation-option-subscribe",
+  "nameIsFixed": false,
+  "overrides": {
+    "A49DD97B-C448-4A53-BBB4-85E5FD1F1E74": "Log in or register"
+  },
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -40,6 +43,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B36170E4-7A6A-4F1A-A6BD-A303AE790194",
+  "symbolID": "126088C8-721B-4AAA-9C14-997E6F82FC08",
   "verticalSpacing": 0
 }

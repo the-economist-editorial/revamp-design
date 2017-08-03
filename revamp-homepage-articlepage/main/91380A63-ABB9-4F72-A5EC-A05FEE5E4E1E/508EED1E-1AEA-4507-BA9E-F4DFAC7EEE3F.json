@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "C9173593-A85D-46E1-9004-61660B70D973",
+  "do_objectID": "508EED1E-1AEA-4507-BA9E-F4DFAC7EEE3F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 740,
-    "x": 0,
-    "y": 0
+    "height": 30,
+    "width": 107.8692156673328,
+    "x": 546.1307843326667,
+    "y": 15
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,9 +28,12 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "component-navigation",
-  "nameIsFixed": true,
-  "resizingConstraint": 18,
+  "name": "CTA-editorial-reg-sub",
+  "nameIsFixed": false,
+  "overrides": {
+    "CC3D6FE3-7FB4-4BFC-A4C5-4C40E70CF3C5": "Subscribe"
+  },
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -40,6 +43,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B36170E4-7A6A-4F1A-A6BD-A303AE790194",
+  "symbolID": "F1D464BE-A0CB-477B-8035-606EF554CE19",
   "verticalSpacing": 0
 }

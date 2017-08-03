@@ -106,6 +106,10 @@
     {
       "class": "symbolInstance",
       "id": "09CFA8A6-FE76-4482-A36F-05F3679F910C"
+    },
+    {
+      "class": "group",
+      "id": "FF056F57-D5D5-4122-ACCD-B14F1DBC312C"
     }
   ],
   "layout": {
