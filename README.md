@@ -4,7 +4,7 @@
 
 * Install Sketch:https://www.sketchapp.com/
 
-* Instal Kactus:https://kactus.io/
+* Install Kactus:https://kactus.io/
 
 * Run Kactus
 
