@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 152,
+    "width": 273.4765625,
     "x": 345,
     "y": 211
   },
@@ -30,6 +30,10 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Edition list item Copy 26",
   "nameIsFixed": false,
+  "overrides": {
+    "08DDE3D2-3A86-46FA-BF00-CDA0E812E4D0": "Reclaiming hijacked buildings",
+    "A88630D2-AE74-4BC9-B419-C3DF36640563": "Urban redevelopment in South Africa"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
