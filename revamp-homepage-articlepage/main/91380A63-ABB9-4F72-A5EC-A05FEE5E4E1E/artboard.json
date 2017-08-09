@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4598,
+    "height": 5393,
     "width": 960,
     "x": 2952,
     "y": 186
@@ -74,6 +74,14 @@
     {
       "class": "symbolInstance",
       "id": "C982872C-00E9-451C-AFEA-9ACE73AD0DB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6556E742-3040-46CF-80B7-6BB9353D65C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75811172-F705-4B41-A6BC-41463F9D7677"
     },
     {
       "class": "symbolInstance",
@@ -138,7 +146,7 @@
     "gutterWidth": 16.875,
     "guttersOutside": false,
     "horizontalOffset": 15,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
     "totalWidth": 930

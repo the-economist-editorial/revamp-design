@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12732,
+  "changeIdentifier": 12736,
   "do_objectID": "14B255C3-EA5B-49FD-8191-2ADB5C9FD72A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -79,7 +79,7 @@
   },
   "name": "teaser-hero-single-full-width",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
