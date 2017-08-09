@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "component-header",
+  "name": "component-header/section-header",
   "nameIsFixed": true,
   "overrides": {
     "0958D3A4-2C60-42DC-9FF0-4D52E4AA21D8": {

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1248,
+  "changeIdentifier": 1256,
   "do_objectID": "83CFB66E-28F0-4B90-81AF-220F8506CAE0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 153,
     "width": 261,
-    "x": 11581,
-    "y": -202
+    "x": 1460,
+    "y": 10945
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -62,7 +62,7 @@
       "id": "5840FBC3-DF6A-4186-B170-AA6F72239608"
     }
   ],
-  "name": "teaser__group-text-WIF<600",
+  "name": "component-teaser/group-text-WIF<600",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

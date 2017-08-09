@@ -37,15 +37,17 @@
       "_ref_class": "MSImageData"
     },
     "77B8B1B2-5F84-4134-9117-BCFA6CA35345": {
+      "D4E14596-0DF4-4F9A-A48B-A89BF55E43D6": {
+        "FFE08E09-9AEC-4F6F-8CCA-1F5D5F74A71B": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/11806f83718100f3dc12a3098fcb886adb27f107",
+          "_ref_class": "MSImageData"
+        }
+      },
       "DF9133B5-7207-464F-805E-B092B19C376E": {
         "4B286E54-D44B-40F2-A600-6BEAE7E86560": "Six big economic ideas",
         "8D5DC952-F776-45D2-ABD7-4CBA14BC2C05": "Mexico becomes a destination for migrants"
       }
-    },
-    "FFE08E09-9AEC-4F6F-8CCA-1F5D5F74A71B": {
-      "_class": "MSJSONFileReference",
-      "_ref": "images/11806f83718100f3dc12a3098fcb886adb27f107",
-      "_ref_class": "MSImageData"
     }
   },
   "resizingConstraint": 63,

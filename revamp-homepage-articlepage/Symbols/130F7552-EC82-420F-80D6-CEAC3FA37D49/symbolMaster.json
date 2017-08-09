@@ -7,7 +7,7 @@
     "green": 0.07058823529411765,
     "red": 0.07058823529411765
   },
-  "changeIdentifier": 38281,
+  "changeIdentifier": 38342,
   "do_objectID": "130F7552-EC82-420F-80D6-CEAC3FA37D49",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 470,
     "width": 320,
-    "x": 20309,
-    "y": -1422
+    "x": 0,
+    "y": 3712
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -1040,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -135,7 +135,7 @@
       "id": "82EBAEEB-8E62-413E-BAEB-F56AD392A1AB"
     }
   ],
-  "name": "component-footer<600",
+  "name": "component-footer/<600",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

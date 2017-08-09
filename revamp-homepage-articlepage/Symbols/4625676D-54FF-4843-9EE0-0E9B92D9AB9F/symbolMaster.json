@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 903,
+  "changeIdentifier": 910,
   "do_objectID": "4625676D-54FF-4843-9EE0-0E9B92D9AB9F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 50,
     "width": 277,
-    "x": 16431,
-    "y": -2156
+    "x": 797,
+    "y": 6305
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -56,7 +56,7 @@
       "id": "B1569824-A313-4CD5-BC58-C3B6E190DB8A"
     }
   ],
-  "name": "component-latestPrintEd-<LI>-otherStories",
+  "name": "component-latest-printed/<LI>-otherStories",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

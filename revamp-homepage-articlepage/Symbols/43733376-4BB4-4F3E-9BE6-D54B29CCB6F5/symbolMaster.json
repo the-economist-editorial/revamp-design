@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2075,
+  "changeIdentifier": 2081,
   "do_objectID": "43733376-4BB4-4F3E-9BE6-D54B29CCB6F5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 30,
     "width": 30,
-    "x": 5976,
-    "y": -384
+    "x": 2151,
+    "y": 6045
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,14 +47,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "7EAC0C8B-3FB8-4B80-89BD-8F6BB7A8C1B2"
     }
   ],
-  "name": "component-icon__mail",
+  "name": "component-icon/mail",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

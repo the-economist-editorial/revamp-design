@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 197,
+  "changeIdentifier": 203,
   "do_objectID": "9BDCB2D6-45C3-4416-A3D5-3ABD68B1DCC2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 120,
-    "x": 5846,
-    "y": -552
+    "x": 1411,
+    "y": 6045
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,14 +47,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "F841BE46-7AA2-4E1A-B6BD-7E2DE40BA185"
     }
   ],
-  "name": "component-icon__econlogo",
+  "name": "component-icon/econlogo",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 383,
+  "changeIdentifier": 386,
   "do_objectID": "A01869D6-B34F-40F1-AE7A-E6D2732DB3D5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 34,
     "width": 150,
-    "x": 15078,
-    "y": -1726
+    "x": 250,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,7 +56,7 @@
       "id": "ECAFB1EC-EDDB-42DA-AE4F-21093121BBFF"
     }
   ],
-  "name": "CTA-editorial-light",
+  "name": "component-CTA/editorial-light",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

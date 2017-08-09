@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11012,
+  "changeIdentifier": 11015,
   "do_objectID": "7B879B25-5135-4776-B59D-DF40533A9019",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 34,
     "width": 150,
-    "x": 15078,
-    "y": -1349
+    "x": 1250,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -52,7 +52,7 @@
       "id": "C0714DE2-1AE6-4289-9353-C54AD6E9D61C"
     }
   ],
-  "name": "CTA-non-editorial-circ",
+  "name": "component-CTA/non-editorial-circ",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

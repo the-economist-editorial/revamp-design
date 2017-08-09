@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 14298,
+  "changeIdentifier": 14459,
   "do_objectID": "29E15F6B-610E-412F-AFD7-C4C4A37D1780",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 407,
     "width": 960,
-    "x": 18159,
-    "y": -2156
+    "x": 0,
+    "y": 2024
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -70,8 +70,8 @@
       "id": "5A9A1B00-A840-42F2-97A4-18C5F862D75A"
     }
   ],
-  "name": "component-carousel",
-  "nameIsFixed": false,
+  "name": "component-carousel/",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

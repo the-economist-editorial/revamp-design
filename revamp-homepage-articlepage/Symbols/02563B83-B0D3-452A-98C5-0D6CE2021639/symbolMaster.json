@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21488,
+  "changeIdentifier": 21502,
   "do_objectID": "02563B83-B0D3-452A-98C5-0D6CE2021639",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 21,
     "width": 131,
-    "x": 4438,
-    "y": -293
+    "x": 0,
+    "y": 10685
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -52,8 +52,8 @@
       "id": "099BC538-EBBF-469F-B6F0-1BEFACB6AC62"
     }
   ],
-  "name": "Navigation-option",
-  "nameIsFixed": false,
+  "name": "component-navigation/option",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

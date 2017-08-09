@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 335,
+  "changeIdentifier": 340,
   "do_objectID": "A5FC16A4-C944-4D20-B046-EFD8774A1D1A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 275,
     "width": 300,
-    "x": 17759,
-    "y": -1403
+    "x": 225,
+    "y": 234
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
@@ -52,8 +52,8 @@
       "id": "7CDA2B9D-D107-4167-9080-E43FF42AE828"
     }
   ],
-  "name": "ads-mpu",
-  "nameIsFixed": false,
+  "name": "component-ad/mpu",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

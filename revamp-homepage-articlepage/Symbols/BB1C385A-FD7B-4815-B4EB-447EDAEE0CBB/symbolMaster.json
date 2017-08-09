@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2672,
+  "changeIdentifier": 2705,
   "do_objectID": "BB1C385A-FD7B-4815-B4EB-447EDAEE0CBB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 110,
     "width": 320,
-    "x": 11581,
-    "y": -431
+    "x": 1545,
+    "y": 11505
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -58,7 +58,7 @@
       "id": "BD7ED695-3476-442E-A2D6-086B06881626"
     }
   ],
-  "name": "teaser-more-stories__no-images<600",
+  "name": "component-teaser/group-text/teaser-more-stories__no-images<600",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

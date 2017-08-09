@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1103,
+  "changeIdentifier": 1109,
   "do_objectID": "82190066-C0DC-4A60-BFAC-14FE01EF7217",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 30,
     "width": 30,
-    "x": 6016,
-    "y": -429
+    "x": 1761,
+    "y": 6045
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,14 +47,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "71B0F3E4-6505-4004-A6D3-91863A750375"
     }
   ],
-  "name": "component-icon__facebook",
+  "name": "component-icon/facebook",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

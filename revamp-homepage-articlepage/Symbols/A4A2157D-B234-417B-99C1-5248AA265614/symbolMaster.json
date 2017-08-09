@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 980,
+  "changeIdentifier": 986,
   "do_objectID": "A4A2157D-B234-417B-99C1-5248AA265614",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 30,
     "width": 30,
-    "x": 5976,
-    "y": -552
+    "x": 1631,
+    "y": 6045
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,14 +47,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "2F5F9D19-5FD4-43E1-B326-411809B3B3C8"
     }
   ],
-  "name": "component-icon-border-rad__esspresso",
+  "name": "component-icon/esspresso-br",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 0.9490196078431372,
     "red": 0.9490196078431372
   },
-  "changeIdentifier": 6331,
+  "changeIdentifier": 6681,
   "do_objectID": "E526165C-4C48-4C03-BC39-8E70F6DBDF0A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 780,
     "width": 975,
-    "x": 19234,
-    "y": -1103
+    "x": 420,
+    "y": 9220
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -94,7 +94,7 @@
       "id": "7C8BE72A-DDE9-4B44-8A05-1F21FA8B98E1"
     }
   ],
-  "name": "component-moreStories__no-images",
+  "name": "component-morestories/no-images/large",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

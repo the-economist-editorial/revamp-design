@@ -7,7 +7,7 @@
     "green": 0.9490196078431372,
     "red": 0.9490196078431372
   },
-  "changeIdentifier": 33066,
+  "changeIdentifier": 33469,
   "do_objectID": "4AA616AB-794F-48D9-8F0B-9D793F1A8B4F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 1203,
     "width": 640,
-    "x": 13600,
-    "y": -1003
+    "x": 3728,
+    "y": 4642
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -85,7 +85,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "component-hero-mobile-article",
+  "name": "component-hero/mid-article",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

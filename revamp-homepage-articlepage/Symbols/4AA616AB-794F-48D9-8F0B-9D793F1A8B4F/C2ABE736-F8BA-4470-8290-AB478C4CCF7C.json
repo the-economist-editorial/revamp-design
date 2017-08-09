@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 1,
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "teaser-single-more-stories",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B133B8D9-368D-4DA2-9F55-4580F393D359",
+  "symbolID": "DD4DB690-B0C0-46B2-813B-BAA63D98CBC3",
   "verticalSpacing": 0
 }

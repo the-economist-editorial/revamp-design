@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 16,
+  "changeIdentifier": 21,
   "do_objectID": "A45FE70D-8EF9-421F-9111-4DE52CB280BB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 627,
     "width": 300,
-    "x": 17759,
-    "y": -2156
+    "x": 625,
+    "y": 234
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
@@ -52,8 +52,8 @@
       "id": "09FDD81C-42B8-463C-9E3A-E51CBD43BFC0"
     }
   ],
-  "name": "ad-rightRail",
-  "nameIsFixed": false,
+  "name": "component-ad/right-rail",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
