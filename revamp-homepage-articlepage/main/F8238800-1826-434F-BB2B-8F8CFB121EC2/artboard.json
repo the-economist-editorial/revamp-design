@@ -21,7 +21,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 4818,
-    "width": 1291,
+    "width": 1308,
     "x": -381,
     "y": 186
   },
@@ -47,6 +47,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "36505EA4-04C9-495D-A1A2-58A0EDEE902F"
+    },
     {
       "class": "symbolInstance",
       "id": "FA78984A-8DB3-4543-B753-6AF8D022B88D"
@@ -121,23 +125,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "36505EA4-04C9-495D-A1A2-58A0EDEE902F"
-    },
-    {
-      "class": "symbolInstance",
       "id": "0A583EB8-9877-4DD3-811B-40B3FC3434C4"
     },
     {
       "class": "symbolInstance",
-      "id": "7653F832-A5CE-4B35-80B7-B190ABC38ACF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5B89EA58-1A56-4E00-A03E-68F9A0C0F8F4"
-    },
-    {
-      "class": "symbolInstance",
       "id": "92FA3D99-F140-443D-94DA-68DBB539EB75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42E7B60E-4E8B-4D50-9816-9DB8F4CA899C"
     }
   ],
   "layout": {

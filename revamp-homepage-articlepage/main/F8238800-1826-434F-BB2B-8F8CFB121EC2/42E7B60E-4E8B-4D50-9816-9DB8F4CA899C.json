@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "5B89EA58-1A56-4E00-A03E-68F9A0C0F8F4",
+  "do_objectID": "42E7B60E-4E8B-4D50-9816-9DB8F4CA899C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 360,
     "width": 972,
-    "x": -9,
-    "y": 2439
+    "x": 0,
+    "y": 2433
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
