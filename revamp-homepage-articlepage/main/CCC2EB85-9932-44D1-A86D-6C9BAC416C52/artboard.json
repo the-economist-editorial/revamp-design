@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -139,7 +139,7 @@
     "gutterWidth": 26.25,
     "guttersOutside": false,
     "horizontalOffset": 15,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
     "totalWidth": 930
