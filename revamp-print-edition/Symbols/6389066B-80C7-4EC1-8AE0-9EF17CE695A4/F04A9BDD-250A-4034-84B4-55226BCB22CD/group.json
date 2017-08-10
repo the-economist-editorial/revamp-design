@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "F04A9BDD-250A-4034-84B4-55226BCB22CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 150,
+    "x": 75,
+    "y": 277
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E09532B-A9E1-4218-B986-7256AD7C873A"
+    },
+    {
+      "class": "text",
+      "id": "EA20580E-9324-452C-9DC4-5E351FBD6C13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2303C0B1-6C7F-43A2-8C0A-1FA9142D180B"
+    }
+  ],
+  "name": "CTA-editorial",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

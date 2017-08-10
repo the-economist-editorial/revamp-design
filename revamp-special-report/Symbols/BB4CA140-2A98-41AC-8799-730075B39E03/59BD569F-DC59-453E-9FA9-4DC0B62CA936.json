@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "59BD569F-DC59-453E-9FA9-4DC0B62CA936",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 300,
+    "x": 320,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 8,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-classifieds",
+  "nameIsFixed": false,
+  "overrides": {
+    "0213CB43-79F5-4F9D-9C01-E08DEF9D5E37": "Listen to the full text of each week's issue, read by professional broadcasters.",
+    "1C977736-7C36-4707-B5B3-08E44AB639F5": "The Economist in Audio",
+    "33B7B316-07DD-4403-BBE8-0E8850E85056": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/1947b2816b448b3d0d46adf848d6eaca86ff2fa0",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1E339338-C554-4260-9ED5-51DED90804B2",
+  "verticalSpacing": 0
+}
