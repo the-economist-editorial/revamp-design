@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7362,
+  "changeIdentifier": 7365,
   "do_objectID": "812262DC-3F90-4A89-8576-E5F2E34332D1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 34,
     "width": 150,
-    "x": 15078,
-    "y": -1420
+    "x": 750,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -52,7 +52,7 @@
       "id": "3ADD2529-5D30-4F7B-811F-CF0A25CF2ABF"
     }
   ],
-  "name": "CTA-editorial-redirects",
+  "name": "component-CTA/editorial-redirects",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

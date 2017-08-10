@@ -7,7 +7,7 @@
     "green": 0.9490196078431372,
     "red": 0.9490196078431372
   },
-  "changeIdentifier": 19282,
+  "changeIdentifier": 19732,
   "do_objectID": "79E6957A-4D0F-4659-9511-F9A1AC899A3C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 957,
     "width": 975,
-    "x": 19234,
-    "y": -2159
+    "x": 0,
+    "y": 8063
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -88,8 +88,8 @@
       "id": "0B483019-504A-4D82-8B43-823788BE4D2F"
     }
   ],
-  "name": "component-moreStories__images",
-  "nameIsFixed": false,
+  "name": "component-morestories/images/large",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

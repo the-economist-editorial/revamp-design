@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1369,
+  "changeIdentifier": 1385,
   "do_objectID": "300163FC-6518-44C2-9856-F98AC10EB5B5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 131,
-    "x": 11220,
-    "y": -805
+    "x": 1314,
+    "y": 11505
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -52,7 +52,7 @@
       "id": "A8F578D8-76DF-451A-A527-9EE7B15551FE"
     }
   ],
-  "name": "teaser-section-link<600",
+  "name": "component-teaser/group-text/section-link<600",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

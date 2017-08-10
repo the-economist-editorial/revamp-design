@@ -104,6 +104,8 @@
       "type-duplicate": {
         "action": "web",
         "words": [
+          "The Americas",
+          "Asia",
           "China",
           "Middle East and Africa",
           "Europe",
@@ -116,7 +118,7 @@
           "Books and arts",
           "Obituary",
           "Economic and financial indicators",
-          "Asia"
+          "United States"
         ]
       }
     }

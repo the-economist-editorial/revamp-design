@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12732,
+  "changeIdentifier": 12952,
   "do_objectID": "14B255C3-EA5B-49FD-8191-2ADB5C9FD72A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 360,
     "width": 972,
-    "x": 7582,
-    "y": -552
+    "x": 4897,
+    "y": 11815
   },
   "grid": {
     "_class": "simpleGrid",
@@ -41,7 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -55,7 +55,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EAE01B47-EA6C-4909-A22D-8A22E9B8F73D"
+      "id": "D86B9C85-EBF4-4156-AF18-4C908E0D9436"
     },
     {
       "class": "symbolInstance",
@@ -77,9 +77,9 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 972
   },
-  "name": "teaser-hero-single-full-width",
+  "name": "component-teaser/single",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

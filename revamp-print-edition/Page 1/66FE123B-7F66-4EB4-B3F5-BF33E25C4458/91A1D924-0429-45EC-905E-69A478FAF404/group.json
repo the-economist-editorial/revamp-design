@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "91A1D924-0429-45EC-905E-69A478FAF404",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 207,
+    "x": 0,
+    "y": 180
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ACB0CAC2-FC10-48B4-93DF-BF7F17B14C20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D561D8D0-781A-473B-9607-CB065BCFAA5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "961AE608-3C98-4E1F-96CB-67B3C44D5014"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51D8AE1B-CEC7-4CC7-8FDD-3504C73C2A7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70D756DE-EA6E-478D-AAC4-5EDD35A370ED"
+    },
+    {
+      "class": "text",
+      "id": "29622B66-23EE-4FDC-94C0-36742EE1659E"
+    }
+  ],
+  "name": "Year search bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

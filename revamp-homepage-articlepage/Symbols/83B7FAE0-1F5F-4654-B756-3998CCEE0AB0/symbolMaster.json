@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 638,
+  "changeIdentifier": 647,
   "do_objectID": "83B7FAE0-1F5F-4654-B756-3998CCEE0AB0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 17,
     "width": 22,
-    "x": 5976,
-    "y": -338
+    "x": 2516,
+    "y": 6045
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,8 +52,8 @@
       "id": "7729EC77-6DE6-44FA-BCE4-56077F1A74CC"
     }
   ],
-  "name": "component-icon__printEdition",
-  "nameIsFixed": false,
+  "name": "component-icon/printedition",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 0.9490196078431372,
     "red": 0.9490196078431372
   },
-  "changeIdentifier": 1046,
+  "changeIdentifier": 1053,
   "do_objectID": "883CF917-CF9B-49B1-9F69-175769EA7CE4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,19 +23,19 @@
     "constrainProportions": false,
     "height": 125,
     "width": 125,
-    "x": 17759,
-    "y": -1062
+    "x": 0,
+    "y": 234
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,8 +64,8 @@
       "id": "8F076473-D9FA-4419-B1C3-F43D2A40D2DE"
     }
   ],
-  "name": "ad-classified",
-  "nameIsFixed": false,
+  "name": "component-ad/classified",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 0.2431372549019608,
     "red": 0.2196078431372549
   },
-  "changeIdentifier": 855,
+  "changeIdentifier": 869,
   "do_objectID": "5B7FA8BE-3754-424D-88AD-413C41F6336D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 320,
-    "x": 4438,
-    "y": -405
+    "x": 2361,
+    "y": 10685
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,14 +47,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "A850820D-8181-4916-A218-687FE7D4F5FB"
     }
   ],
-  "name": "component-navigation__wrapper-mobile",
+  "name": "component-navigation/wrapper-mobile",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,9 +29,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4020,
+    "height": 4818,
     "width": 1308,
-    "x": -390,
+    "x": -381,
     "y": 186
   },
   "grid": {
@@ -45,8 +54,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "36505EA4-04C9-495D-A1A2-58A0EDEE902F"
+    },
     {
       "class": "symbolInstance",
       "id": "FA78984A-8DB3-4543-B753-6AF8D022B88D"
@@ -121,11 +134,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "36505EA4-04C9-495D-A1A2-58A0EDEE902F"
+      "id": "0A583EB8-9877-4DD3-811B-40B3FC3434C4"
     },
     {
       "class": "symbolInstance",
-      "id": "0A583EB8-9877-4DD3-811B-40B3FC3434C4"
+      "id": "92FA3D99-F140-443D-94DA-68DBB539EB75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42E7B60E-4E8B-4D50-9816-9DB8F4CA899C"
     }
   ],
   "layout": {
