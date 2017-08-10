@@ -31,8 +31,8 @@
   "name": "component-classifieds",
   "nameIsFixed": false,
   "overrides": {
-    "0213CB43-79F5-4F9D-9C01-E08DEF9D5E37": "Receive our daily dispatch or weekly Editor's picks newsletters by e-mail.",
-    "1C977736-7C36-4707-B5B3-08E44AB639F5": "The Economist Newsletters"
+    "52645314-FD9B-4818-9216-5071FA8E3F81": "The Economist Newsletters",
+    "DF7B4921-800A-4F69-9743-AA0C7B03777D": "Receive our daily dispatch or weekly Editor's picks newsletters by e-mail."
   },
   "resizingConstraint": 15,
   "resizingType": 0,
@@ -44,6 +44,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "1E339338-C554-4260-9ED5-51DED90804B2",
+  "symbolID": "F6D72CD8-9E82-4B32-9AB3-138768264A3C",
   "verticalSpacing": 0
 }

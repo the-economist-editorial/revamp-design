@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "EE33193E-9D4C-4040-BC67-1EA757B8073A",
+  "do_objectID": "ED4F9FAB-68BD-4D23-8967-B9E65FA43585",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 280,
-    "width": 390,
-    "x": 0,
-    "y": 300
+    "height": 30,
+    "width": 30,
+    "x": 179,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,22 +24,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 8,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "component-classifieds",
+  "name": "component-icon-circ__twitter",
   "nameIsFixed": false,
-  "overrides": {
-    "2BCE13D8-2159-415F-9ADD-053C927818CF": {
-      "_class": "MSJSONFileReference",
-      "_ref": "images/1947b2816b448b3d0d46adf848d6eaca86ff2fa0",
-      "_ref_class": "MSImageData"
-    },
-    "52645314-FD9B-4818-9216-5071FA8E3F81": "The Economist Newsletters",
-    "DF7B4921-800A-4F69-9743-AA0C7B03777D": "Receive our daily dispatch or weekly Editor's picks newsletters by e-mail."
-  },
-  "resizingConstraint": 47,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -49,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "F6D72CD8-9E82-4B32-9AB3-138768264A3C",
+  "symbolID": "56AE385E-3A1F-401F-BE77-A0DA788FD42E",
   "verticalSpacing": 0
 }

@@ -7,7 +7,7 @@
     "green": 0.9490196078431372,
     "red": 0.9490196078431372
   },
-  "changeIdentifier": 8822,
+  "changeIdentifier": 8849,
   "do_objectID": "7C22448F-35BD-4C60-B3D5-81EE48F486E6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -62,7 +62,7 @@
       "id": "313824FA-EC83-4106-A9EE-BB444447E822"
     }
   ],
-  "name": "component-classifieds/group-vert",
+  "name": "component-classifieds/group-vert<600",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
