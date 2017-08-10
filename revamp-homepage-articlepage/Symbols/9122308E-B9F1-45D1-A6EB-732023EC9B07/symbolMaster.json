@@ -7,7 +7,7 @@
     "green": 0.07058823529411765,
     "red": 0.07058823529411765
   },
-  "changeIdentifier": 15375,
+  "changeIdentifier": 15392,
   "do_objectID": "9122308E-B9F1-45D1-A6EB-732023EC9B07",
   "exportOptions": {
     "_class": "exportOptions",
@@ -81,7 +81,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 972
   },
-  "name": "component-teaser/single-WIF<600",
+  "name": "component-teaser/single-vert-WIF<600",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "95C3B26A-7D0B-4B07-85C6-B7A7CC462851",
+  "do_objectID": "CE203290-FA2A-44C4-9B74-957C1C39285A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,11 +12,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 710,
-    "width": 580,
-    "x": 10,
-    "y": 3992
+    "constrainProportions": true,
+    "height": 287.5079365079365,
+    "width": 590,
+    "x": 0,
+    "y": 1855
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,11 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 374,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "component-moreStories__no-images",
+  "name": "component-latest-printed/small",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "48FD539F-2ED5-42E2-AD5A-9FDA9D7777FE",
+  "symbolID": "A63CB123-443D-4C72-94E2-566BBF33A36E",
   "verticalSpacing": 0
 }

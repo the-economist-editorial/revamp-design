@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 214.8148148148147,
+    "height": 213,
     "width": 580,
     "x": 10,
     "y": 3772.814814814815
@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "teaser-hero-single-full-width",
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "053AC9C3-D8A5-49F9-AEEF-B0C4AE811FD5",
+  "symbolID": "EFE8F2ED-07EA-4004-A9B3-3EF9130E3E9B",
   "verticalSpacing": 0
 }
