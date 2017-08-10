@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 35371,
+  "changeIdentifier": 35374,
   "do_objectID": "67A38D0E-E792-46DA-B3BD-E7A044062B04",
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

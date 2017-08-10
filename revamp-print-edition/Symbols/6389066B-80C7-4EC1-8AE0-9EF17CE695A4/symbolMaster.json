@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10481,
+  "changeIdentifier": 10625,
   "do_objectID": "6389066B-80C7-4EC1-8AE0-9EF17CE695A4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 315,
     "width": 300,
-    "x": 34252,
-    "y": 0
+    "x": 2688,
+    "y": 7115
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -70,8 +70,8 @@
       "id": "106D041F-8534-426B-AA8C-B75D7963CA90"
     },
     {
-      "class": "symbolInstance",
-      "id": "93FC5DBC-4D04-4F3E-85E1-C9B7BDFF9A9A"
+      "class": "group",
+      "id": "F04A9BDD-250A-4034-84B4-55226BCB22CD"
     }
   ],
   "layout": {

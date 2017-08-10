@@ -7,7 +7,7 @@
     "green": 0.07058823529411765,
     "red": 0.07058823529411765
   },
-  "changeIdentifier": 24203,
+  "changeIdentifier": 24247,
   "do_objectID": "1139DEF4-72EC-4DF2-9275-0C3C926EA1E3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 312,
     "width": 1308,
-    "x": 47850,
-    "y": 0
+    "x": 1828,
+    "y": 4142
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
