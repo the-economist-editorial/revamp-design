@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 35556,
+  "changeIdentifier": 35632,
   "do_objectID": "6F90FA0C-4549-4462-B078-2DFCCD6AE1AF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 751,
+    "height": 750,
     "width": 974,
     "x": 840,
     "y": 4642
@@ -96,7 +96,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 7,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 300,
     "width": 306,
-    "x": 667,
+    "x": 668,
     "y": 450
   },
   "horizontalSpacing": 0,
@@ -24,7 +24,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,

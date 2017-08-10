@@ -7,7 +7,7 @@
     "green": 0.9490196078431372,
     "red": 0.9490196078431372
   },
-  "changeIdentifier": 37505,
+  "changeIdentifier": 37549,
   "do_objectID": "8DC730F2-E754-44F4-B13C-964AEBDD1482",
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

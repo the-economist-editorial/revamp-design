@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 106,
-    "width": 261,
-    "x": 15,
-    "y": 15
+    "width": 260.462962962963,
+    "x": 14.96913580246913,
+    "y": 14
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 3,
   "name": "component-teaser/group-text<600",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
