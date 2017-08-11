@@ -1,6 +1,6 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "3CA37A14-1835-4A0B-97AC-12B36E65A1DE",
+  "_class": "group",
+  "do_objectID": "40B498AC-543C-421C-A0A8-2C8151E2A71F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,17 +18,23 @@
     "x": 0,
     "y": 5100
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 4,
-  "masterInfluenceEdgeMinYPadding": 1,
-  "name": "component-footer",
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3CA37A14-1835-4A0B-97AC-12B36E65A1DE"
+    },
+    {
+      "class": "text",
+      "id": "5857ED3F-CF83-4888-AE83-125571DCF2BD"
+    }
+  ],
+  "name": "Group 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,7 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "7031A1FB-DD6E-407A-A0CA-435B4B50B4B6",
-  "verticalSpacing": 0
+  }
 }
