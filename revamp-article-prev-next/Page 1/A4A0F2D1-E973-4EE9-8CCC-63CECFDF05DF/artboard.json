@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -108,7 +108,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 710
   },
-  "name": "740px (between-small-medium) Article",
+  "name": "740px (between-small-medium) Article-prev-next-01",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

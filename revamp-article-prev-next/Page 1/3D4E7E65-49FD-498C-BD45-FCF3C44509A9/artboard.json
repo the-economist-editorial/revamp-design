@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -96,7 +96,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 300
   },
-  "name": "320px (min width) Article Copy",
+  "name": "320px (min width) Article-prev-next-02",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
