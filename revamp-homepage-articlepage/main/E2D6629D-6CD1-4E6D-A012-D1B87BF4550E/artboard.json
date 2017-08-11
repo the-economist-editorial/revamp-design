@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -109,12 +109,8 @@
       "id": "B8A6DD57-10C0-40CC-B02D-CE30E290F733"
     },
     {
-      "class": "symbolInstance",
-      "id": "FC10852E-1842-46F9-99A1-220749B12B6B"
-    },
-    {
       "class": "group",
-      "id": "52670999-4D42-459F-8E57-27FCFB9A388E"
+      "id": "87688E92-3B5F-48D1-9DA9-56967B21746D"
     },
     {
       "class": "symbolInstance",
@@ -131,7 +127,7 @@
     "gutterWidth": 10,
     "guttersOutside": false,
     "horizontalOffset": 10,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 4,
     "rowHeightMultiplication": 5,
     "totalWidth": 580
