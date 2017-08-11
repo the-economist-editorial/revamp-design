@@ -7,7 +7,7 @@
     "green": 0.9490196078431372,
     "red": 0.9490196078431372
   },
-  "do_objectID": "21F83F2E-7E04-4E87-839A-6A8505539656",
+  "do_objectID": "9E48D1DE-7B54-4980-85D0-E8776036BC06",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -29,14 +29,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 7045,
-    "width": 320,
-    "x": 1291,
+    "height": 5793,
+    "width": 768,
+    "x": -2117,
     "y": 4700
   },
   "grid": {
     "_class": "simpleGrid",
-    "gridSize": 10,
+    "gridSize": 15,
     "isEnabled": false,
     "thickGridTimes": 10
   },
@@ -57,30 +57,34 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "group",
+      "id": "6E3C001F-CC25-467C-8987-454D4D6C18D0"
+    },
+    {
       "class": "symbolInstance",
-      "id": "A4FB9F03-81BD-4E8F-BA35-5644F248B7BA"
+      "id": "E82442EB-EB8B-4421-B0FE-266BDE8DF88D"
     },
     {
       "class": "group",
-      "id": "6AFDCAAC-3EC8-4D6D-B8E2-D478AE366A44"
+      "id": "DEE93B68-8C58-4D63-A704-83D0AB0D0EE9"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 67.5,
+    "columnWidth": 65.55555555555556,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 10,
+    "gutterWidth": 22.25,
     "guttersOutside": false,
-    "horizontalOffset": 10,
+    "horizontalOffset": 15,
     "isEnabled": true,
-    "numberOfColumns": 4,
+    "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
-    "totalWidth": 300
+    "totalWidth": 768
   },
-  "name": "320px (min width)",
+  "name": "768px (optimum ipad width)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

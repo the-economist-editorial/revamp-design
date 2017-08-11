@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 5793,
     "width": 740,
-    "x": 921,
+    "x": -925,
     "y": 4700
   },
   "grid": {
@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,6 +63,10 @@
     {
       "class": "symbolInstance",
       "id": "BE094165-9F6F-4F99-B932-CFCC33BE7F59"
+    },
+    {
+      "class": "group",
+      "id": "1F4763F2-EDF0-4B13-808B-05BDCBD3BDB0"
     }
   ],
   "layout": {

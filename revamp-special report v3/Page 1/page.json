@@ -78,15 +78,7 @@
     },
     {
       "class": "artboard",
-      "id": "CFCCDE44-70F1-4339-A55D-A4EA6EEA1968"
-    },
-    {
-      "class": "artboard",
       "id": "6DB19CEB-4726-4795-A592-7A8877BDF7FF"
-    },
-    {
-      "class": "artboard",
-      "id": "B82A35DA-8F7C-4E66-B4DC-CE3514062A5D"
     },
     {
       "class": "artboard",
@@ -94,7 +86,7 @@
     },
     {
       "class": "artboard",
-      "id": "A4A0F2D1-E973-4EE9-8CCC-63CECFDF05DF"
+      "id": "9E48D1DE-7B54-4980-85D0-E8776036BC06"
     },
     {
       "class": "artboard",
@@ -102,15 +94,7 @@
     },
     {
       "class": "artboard",
-      "id": "26D19691-DAF9-4543-88C8-B6C1F79B2072"
-    },
-    {
-      "class": "artboard",
       "id": "21F83F2E-7E04-4E87-839A-6A8505539656"
-    },
-    {
-      "class": "artboard",
-      "id": "DE7043AB-BF74-4AA5-9AEE-9635E34C52F4"
     },
     {
       "class": "shapeGroup",
@@ -148,6 +132,7 @@
     "_class": "rulerData",
     "base": -265,
     "guides": [
+      3922
     ]
   }
 }

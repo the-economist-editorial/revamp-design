@@ -343,6 +343,14 @@
     {
       "class": "shapeGroup",
       "id": "BC706F8C-7701-49F3-BC8A-FB38B8877E2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF180DE8-3AAE-4870-992A-14A7E566CEB1"
+    },
+    {
+      "class": "group",
+      "id": "A585EB84-CE9C-41E5-B583-2771DE7663FF"
     }
   ],
   "layout": {
