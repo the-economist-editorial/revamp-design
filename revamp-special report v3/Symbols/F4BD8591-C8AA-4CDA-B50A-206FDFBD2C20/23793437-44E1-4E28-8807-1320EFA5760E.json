@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGS0xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwmLTE5Ojs8PUFFR1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA18QFWNvbXBvbmVudC1jbGFzc2lmaWVkc9MREgoTFhlXTlMua2V5c1pOUy5vYmplY3RzohQVgASABaIXGIAGgAiAEF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1h0eHwogISIjJCUiJFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBABgAAjQDgAAAAAAACAB9InKCkqWiRjbGFzc25hbWVYJGNsYXNzZXNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMpKyxfEBBOU1BhcmFncmFwaFN0eWxlWE5TT2JqZWN00gouLzBfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4APgAnTERIKMjU4ojM0gAqAC6I2N4AMgA2ADl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A0AAAAAAAAWUhlbHZldGljYdInKD4/XxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QCxcTlNEaWN0aW9uYXJ50icoQkNfEBBOU0ZvbnREZXNjcmlwdG9yokQsXxAQTlNGb250RGVzY3JpcHRvctInKEBGokAs0icoSElfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiSixfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRTU5Ucm9vdIABAAgAEQAaACMALQAyADcATABSAFkAYgBpAHYAeAB6AHwAlACbAKMArgCxALMAtQC4ALoAvAC+ANEA8wEAAQwBFwEpAUsBXQFfAWEBagFsAXEBfAGFAZ8BowG2Ab8BxAHhAeMB5QHsAe8B8QHzAfYB+AH6AfwCEgIoAjECOwJAAlYCWgJnAmwCfwKCApUCmgKdAqICtwK6As8C4QLkAukAAAAAAAACAQAAAAAAAABPAAAAAAAAAAAAAAAAAAAC6w=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "23793437-44E1-4E28-8807-1320EFA5760E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 198,
+    "x": 171,
+    "y": 3567
+  },
+  "glyphBounds": "{{0, 2}, {198, 20}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "component-classifieds",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "128ADAA5-328F-469C-956E-3741BC345174"
+  },
+  "textBehaviour": 0
+}

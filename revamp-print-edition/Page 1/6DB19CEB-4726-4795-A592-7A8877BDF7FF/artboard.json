@@ -87,6 +87,46 @@
     {
       "class": "symbolInstance",
       "id": "AEBA2990-23E8-4F2E-A7CD-811A163C7ADF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "468132FA-E693-45E0-AD2B-60D07AD97A0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8772AF14-355A-4A07-AB8B-B9C22A093ED0"
+    },
+    {
+      "class": "bitmap",
+      "id": "27E3C15E-D39D-43A7-B14D-FCAD11ADCB67"
+    },
+    {
+      "class": "text",
+      "id": "B45BAE32-D9D0-4D5F-A3BB-62A2FD7C2ECF"
+    },
+    {
+      "class": "text",
+      "id": "F6C31128-E6D4-48A7-BA77-0A1C96B8AACF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CF72587-E577-4E4E-A0D0-F9FEB928753E"
+    },
+    {
+      "class": "group",
+      "id": "42979451-40A1-493F-96CC-5BE225F4A40B"
+    },
+    {
+      "class": "group",
+      "id": "79913275-8EF8-47CC-A9C4-10C5A15C5B26"
+    },
+    {
+      "class": "group",
+      "id": "746290CA-DF38-4235-8FE1-20AB7FA6B59E"
+    },
+    {
+      "class": "group",
+      "id": "6242C233-893A-4066-8CC3-C62E50AAA3F4"
     }
   ],
   "layout": {
