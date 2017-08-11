@@ -58,6 +58,10 @@
   "layers": [
     {
       "class": "group",
+      "id": "53DCCBBD-F122-4EC6-A95E-9C5684DA7964"
+    },
+    {
+      "class": "group",
       "id": "48DD6A72-C646-45B1-A511-E41CF3AAFBA4"
     },
     {
@@ -67,10 +71,6 @@
     {
       "class": "group",
       "id": "EBA95207-FCCE-4CBF-9D07-4AD5439FCD73"
-    },
-    {
-      "class": "group",
-      "id": "53DCCBBD-F122-4EC6-A95E-9C5684DA7964"
     },
     {
       "class": "symbolInstance",

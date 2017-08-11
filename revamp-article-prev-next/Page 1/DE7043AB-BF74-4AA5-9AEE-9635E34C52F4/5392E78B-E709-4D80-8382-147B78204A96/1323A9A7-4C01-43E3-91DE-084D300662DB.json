@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "D6F8FDA4-A63D-44F8-BAB1-2A3B2BC6C213",
+  "_class": "symbolInstance",
+  "do_objectID": "1323A9A7-4C01-43E3-91DE-084D300662DB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,28 +13,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 347,
-    "width": 600,
-    "x": -1.4210854715202e-14,
-    "y": 1699
+    "height": 669,
+    "width": 300,
+    "x": 10,
+    "y": 5814
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "5036E2B2-8C85-4702-92B4-C326F93A6F57"
-    },
-    {
-      "class": "text",
-      "id": "569779F4-C236-4F3B-81EF-A5E11AB6D4BE"
-    }
-  ],
-  "name": "Group 4",
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-hero-mobile<600",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,5 +39,7 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "3AD4AE53-058E-431D-86F6-2C8FAC099A75",
+  "verticalSpacing": 0
 }

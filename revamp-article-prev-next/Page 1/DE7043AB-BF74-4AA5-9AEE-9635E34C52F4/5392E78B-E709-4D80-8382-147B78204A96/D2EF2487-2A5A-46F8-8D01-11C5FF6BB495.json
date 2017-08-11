@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "77A02452-F8BC-4666-B068-8F7F474449DA",
+  "do_objectID": "D2EF2487-2A5A-46F8-8D01-11C5FF6BB495",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 121,
-    "width": 580,
+    "width": 300,
     "x": 10,
-    "y": 122
+    "y": 5693
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -40,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B7BD8913-9B13-48FC-9967-54358B005801",
+  "symbolID": "EF503817-6A59-4F45-B0DB-0EB165E50FE9",
   "verticalSpacing": 0
 }

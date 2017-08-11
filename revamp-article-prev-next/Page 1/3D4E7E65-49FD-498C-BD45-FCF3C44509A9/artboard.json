@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,24 +57,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "5A3184FD-8D15-4892-9487-20DFDF19B764"
+      "class": "group",
+      "id": "CA16523D-574A-4752-9856-95872700DB81"
     },
     {
       "class": "group",
       "id": "77968181-B304-45A3-AB5B-8414B1656C0D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "78D3ED32-4131-4536-99CF-FD8CE3E99B63"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BED61278-AF7F-4938-9B64-71922C8BD721"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1D0AD1D1-35DF-444C-83C8-8BCEED189679"
     },
     {
       "class": "symbolInstance",
