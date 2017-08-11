@@ -107,6 +107,10 @@
     {
       "class": "symbolInstance",
       "id": "7102E933-A9A4-490B-AF19-7AF627DFA677"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC9E7162-83BF-4361-96CB-5606D6B035A4"
     }
   ],
   "layout": {
