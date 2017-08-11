@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "709DACF9-398B-48B7-9F51-DAEE6B17A935",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 664.2300797292095,
+    "width": 861.46484375,
+    "x": 0,
+    "y": 3683
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-hero-article",
+  "nameIsFixed": true,
+  "overrides": {
+    "0A149181-F9EA-4D6A-8222-B1572E109DDE": {
+      "EB2647A3-8C40-4DA2-9E7B-E9F543F5C366": {
+        "symbolID": "9E1FDB7F-EF63-4772-9EB1-6201F39B49AD"
+      }
+    }
+  },
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8D68AAD4-450D-492A-88A5-3F69905626EC",
+  "verticalSpacing": 0
+}

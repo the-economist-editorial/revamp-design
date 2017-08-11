@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2362,
+    "height": 1549.40234375,
     "width": 320,
     "x": 5473,
     "y": 4700
@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -131,8 +131,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      72,
-      2360
     ]
   }
 }
