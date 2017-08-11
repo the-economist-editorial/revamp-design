@@ -75,7 +75,7 @@
     "gutterWidth": 15,
     "guttersOutside": false,
     "horizontalOffset": 15,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
     "totalWidth": 710

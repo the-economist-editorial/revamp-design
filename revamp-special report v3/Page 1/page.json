@@ -113,10 +113,25 @@
       "id": "DE7043AB-BF74-4AA5-9AEE-9635E34C52F4"
     },
     {
-      "class": "artboard",
-      "id": "D04AA20F-EA02-4823-ABC3-5C606684BF05"
+      "class": "shapeGroup",
+      "id": "735D7DE7-BDCA-41E9-B989-8DA15E120EC7"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "Page 1",
   "nameIsFixed": false,
   "resizingConstraint": 63,

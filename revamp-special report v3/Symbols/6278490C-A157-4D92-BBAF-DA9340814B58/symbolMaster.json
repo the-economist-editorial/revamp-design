@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 783,
   "do_objectID": "6278490C-A157-4D92-BBAF-DA9340814B58",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 177,
-    "width": 232,
-    "x": 61691,
-    "y": 0
+    "height": 134,
+    "width": 444,
+    "x": 0,
+    "y": 532
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,32 +41,32 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "F8464AE3-765E-4DDE-90EF-8E58E03EB973"
-    },
     {
       "class": "shapeGroup",
       "id": "1CF11ACD-CCC4-4E77-B092-1AB0D91BCC71"
     },
     {
-      "class": "text",
-      "id": "96CBCC7F-E2A7-4FC7-BE3D-12A296F330A6"
+      "class": "shapeGroup",
+      "id": "B1230F47-528F-4D95-BE63-0813123C134C"
     },
     {
       "class": "text",
-      "id": "A5626F06-A723-4A3A-A446-C9BCF1222E66"
+      "id": "887758D1-E5A9-4161-BF66-4FFE6ECFC666"
     },
     {
       "class": "text",
-      "id": "F81B946D-B27E-4CB1-8A9A-98C4EB8A74B9"
+      "id": "14C34A01-B0D0-4DB6-B27F-115AB8761B8A"
+    },
+    {
+      "class": "text",
+      "id": "1117ED41-E294-44A8-98BC-56F2F8E6B989"
     }
   ],
-  "name": "Special report chpater",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "Special report chapter",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

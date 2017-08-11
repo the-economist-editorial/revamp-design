@@ -14,15 +14,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 232,
+    "height": 0.7570621468926555,
+    "width": 444,
     "x": 0,
-    "y": 0
+    "y": -2.271186440677966
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
+  "isFlippedVertical": true,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -52,7 +52,7 @@
           "red": 0.8431372549019608
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGS0xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwmLTE5Ojs8PUFFR1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA18QJWNvbXBvbmVudC1uYXZpZ2F0aW9uX193cmFwcGVyLWRlc2t0b3DTERIKExYZV05TLmtleXNaTlMub2JqZWN0c6IUFYAEgAWiFxiABoAIgBBfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdYdHh8KICEiIyQlIiRbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHQQAYAAI0A4AAAAAAAAgAfSJygpKlokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjKSssXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKLi8wXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAD4AJ0xESCjI1OKIzNIAKgAuiNjeADIANgA5fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAFlIZWx2ZXRpY2HSJyg+P18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkAsXE5TRGljdGlvbmFyedInKEJDXxAQTlNGb250RGVzY3JpcHRvcqJELF8QEE5TRm9udERlc2NyaXB0b3LSJyhARqJALNInKEhJXxASTlNBdHRyaWJ1dGVkU3RyaW5nokosXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0U1OVHJvb3SAAQAIABEAGgAjAC0AMgA3AEwAUgBZAGIAaQB2AHgAegB8AKQAqwCzAL4AwQDDAMUAyADKAMwAzgDhAQMBEAEcAScBOQFbAW0BbwFxAXoBfAGBAYwBlQGvAbMBxgHPAdQB8QHzAfUB/AH/AgECAwIGAggCCgIMAiICOAJBAksCUAJmAmoCdwJ8Ao8CkgKlAqoCrQKyAscCygLfAvEC9AL5AAAAAAAAAgEAAAAAAAAATwAAAAAAAAAAAAAAAAAAAvs="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2FFF095D-B43B-44AA-80B1-530DF9FEC421",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 369,
+    "x": 0,
+    "y": 11154
+  },
+  "glyphBounds": "{{0, 2}, {368, 20}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "component-navigation__wrapper-desktop",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "128ADAA5-328F-469C-956E-3741BC345174"
+  },
+  "textBehaviour": 0
+}
