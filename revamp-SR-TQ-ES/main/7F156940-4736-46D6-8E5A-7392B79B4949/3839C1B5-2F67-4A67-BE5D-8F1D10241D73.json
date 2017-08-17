@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3839C1B5-2F67-4A67-BE5D-8F1D10241D73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 470,
+    "width": 640,
+    "x": 160,
+    "y": 6557
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-latestUpdates",
+  "nameIsFixed": false,
+  "overrides": {
+    "96C3F850-0F39-453E-83CD-7EBEE9DE2866": {
+    },
+    "B1C6F351-B9F6-415B-A34C-28B0A7F8EB9D": {
+    },
+    "BBDA81C1-69DD-4ED6-BCE3-F1D22EDBA3C2": {
+      "F6D73E66-03AA-4A83-833D-BC24BCB9502E": "See all updates"
+    },
+    "FE26576F-B973-467D-B3E5-782B6054723A": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "19481659-FC0D-41DA-B608-4A36FD914418",
+  "verticalSpacing": 0
+}

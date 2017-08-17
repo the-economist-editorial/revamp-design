@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "23F4DE43-75DD-4018-AD37-74ACEDD741BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 303,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-header",
+  "nameIsFixed": true,
+  "overrides": {
+    "0958D3A4-2C60-42DC-9FF0-4D52E4AA21D8": {
+    },
+    "421616C3-218E-4D94-8553-52B2C65D06F3": "More in this special report:",
+    "A46B01D3-6885-427E-9001-FD56AD1252C0": "Report title",
+    "F897D245-8435-4A80-85B5-10FEA97557BE": {
+      "A13B4802-5D67-4A86-B0B9-25063D2C820B": "Latest updates"
+    }
+  },
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "43FE1202-0A07-4084-A00D-A2C9696F49D0",
+  "verticalSpacing": 0
+}

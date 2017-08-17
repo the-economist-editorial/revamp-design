@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "37D17D3C-9043-41B3-BE2F-728014FB5785",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 828,
+    "width": 193,
+    "x": 1,
+    "y": 710
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 110,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-latestUpdates",
+  "nameIsFixed": false,
+  "overrides": {
+    "324F319B-7213-4A4F-89CD-F98994D9CDD8": {
+      "364A61A9-F29F-4C8A-915B-BFE3EAE8E5BD": "Drone technology has made huge strides",
+      "4F0031E2-7610-49B9-857F-AB27E45E1B23": "2 | Give and take"
+    },
+    "46B04A10-4A64-4C1C-B8AB-11610F41E02B": {
+      "304430A3-4660-4AF6-9FE5-CE8BA13A8963": "1 | Taking flight",
+      "3615A532-2606-4624-A669-F2F9D503BEEF": "Commercial drones are the fastest-growing part of the market",
+      "F6D73E66-03AA-4A83-833D-BC24BCB9502E": "Civilian drones"
+    },
+    "96C3F850-0F39-453E-83CD-7EBEE9DE2866": {
+    },
+    "B1C6F351-B9F6-415B-A34C-28B0A7F8EB9D": {
+    },
+    "D4C66631-EBF1-45DD-B70E-311FDCD1C7AE": {
+      "6D40510D-821B-41B5-BE9A-45242AD5880E": "Taking flight",
+      "CE8DD804-F1AE-49EE-8685-3234E794F70F": "More in this TQ:"
+    },
+    "E1F024D1-B975-4F8B-B618-EEB894E02C32": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0834811C-501F-48EE-9CF6-8C1B4785888D",
+  "verticalSpacing": 0
+}

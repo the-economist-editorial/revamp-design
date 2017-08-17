@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "38F53781-D80B-4935-B230-335CA3DF6A0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 337,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 7,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-article-header",
+  "nameIsFixed": false,
+  "overrides": {
+    "08DA1C68-8A29-4401-A5C4-1A59B5BEBB87": "Most drones today are either cheap toys or expensive weapons. But interesting commercial uses are emerging in the middle, says Tom Standage",
+    "1A8A68B1-042A-48AC-A0CE-60CD5780728F": "Taking flight",
+    "253EAA58-2873-46DA-9A76-2AB2C21BF628": {
+    },
+    "4B3193C6-A42C-4FDA-9FED-03E32AC8700A": "TAKING FLIGHT",
+    "6691E4C7-140B-4CA4-A5EF-5D2EA112F06A": "Most drones today are either cheap toys or expensive weapons. But interesting commercial uses are emerging in the middle, says Tom Standage",
+    "96010EC1-D650-40C5-AC95-D583C1CFF710": "Commercial drones are the fastest-growing part of the market",
+    "EA52B983-C35E-4D76-B6AF-88E61BB2D4F7": {
+      "0D5A16DF-3295-475E-9E00-4E028E59FDA9": "Commercial drones are the fastest-growing part of the market",
+      "1011EAC9-EAE8-4CB0-B3AF-781FE5DF8FEA": "Taking flight",
+      "2F560B2E-0162-431B-AD30-9D86201AFD09": "Most drones today are either cheap toys or expensive weapons. But interesting commercial uses are emerging in the middle, says Tom Standage"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9DEF8C8D-7373-4C4F-A0A0-664B52388BDE",
+  "verticalSpacing": 0
+}

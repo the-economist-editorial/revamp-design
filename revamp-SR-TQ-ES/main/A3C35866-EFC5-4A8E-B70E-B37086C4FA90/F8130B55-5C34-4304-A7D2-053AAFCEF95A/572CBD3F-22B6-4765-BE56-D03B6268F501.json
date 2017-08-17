@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "572CBD3F-22B6-4765-BE56-D03B6268F501",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1455,
+    "width": 580,
+    "x": 0,
+    "y": 9566
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 60,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 7,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-article-header",
+  "nameIsFixed": false,
+  "overrides": {
+    "2F560B2E-0162-431B-AD30-9D86201AFD09": "Originally a military technology, drones are now benefiting from rapid advances in consumer electronics",
+    "4B3193C6-A42C-4FDA-9FED-03E32AC8700A": "TAKING FLIGHT",
+    "50537A61-B29B-4AD9-B886-87D7A1CA240B": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/2ef4de347861580050bfded09c001197add48be3",
+      "_ref_class": "MSImageData"
+    },
+    "6691E4C7-140B-4CA4-A5EF-5D2EA112F06A": "Most drones today are either cheap toys or expensive weapons. But interesting commercial uses are emerging in the middle, says Tom Standage",
+    "6B563874-3D03-4BAB-BF4F-2EDE01A5BF17": "Drone technology has made huge strides",
+    "AE1C8FAD-6A59-41C5-9E3A-CBC239D5A86A": "4",
+    "FEAB0058-FB4A-4983-9A58-09D61B9CDE9D": "Brain scan"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3AE06602-CB5F-425C-AAF6-0E78575A97F6",
+  "verticalSpacing": 0
+}

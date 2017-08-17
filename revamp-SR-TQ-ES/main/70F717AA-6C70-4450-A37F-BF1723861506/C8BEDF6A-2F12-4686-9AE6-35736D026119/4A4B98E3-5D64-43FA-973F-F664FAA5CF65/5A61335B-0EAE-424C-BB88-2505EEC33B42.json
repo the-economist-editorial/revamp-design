@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5A61335B-0EAE-424C-BB88-2505EEC33B42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 312,
+    "width": 299.0033222591362,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 337,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 7,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-article-header",
+  "nameIsFixed": false,
+  "overrides": {
+    "0D5A16DF-3295-475E-9E00-4E028E59FDA9": "Drone technology has made huge strides",
+    "1011EAC9-EAE8-4CB0-B3AF-781FE5DF8FEA": "Give and take",
+    "125786DE-C8F7-46B0-AD21-42B7ADCF36C1": {
+      "048E0678-9712-4EB1-8F5D-1AD5173DA25B": {
+        "symbolID": "93BB77FB-02C6-462A-BC48-F53D1BAB2F36"
+      },
+      "18E8F08C-68A7-44D2-AD7B-A770EB45D66A": {
+        "symbolID": "93BB77FB-02C6-462A-BC48-F53D1BAB2F36"
+      },
+      "symbolID": "9C0FC529-CC60-401A-973C-58CA4FD8795A"
+    },
+    "2F560B2E-0162-431B-AD30-9D86201AFD09": "Originally a military technology, drones are now benefiting from rapid advances in consumer electronics",
+    "4B3193C6-A42C-4FDA-9FED-03E32AC8700A": "TAKING FLIGHT",
+    "6691E4C7-140B-4CA4-A5EF-5D2EA112F06A": "Most drones today are either cheap toys or expensive weapons. But interesting commercial uses are emerging in the middle, says Tom Standage",
+    "E2B2B00F-78B6-44F2-974C-37F7C9700179": "2"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "027549D4-69AE-4DDF-AC0A-18873C5BAB3E",
+  "verticalSpacing": 0
+}

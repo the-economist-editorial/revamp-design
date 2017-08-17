@@ -1,0 +1,133 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 5076,
+  "do_objectID": "EB781FD2-B0F3-4E1B-BF78-93886BE2842C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1300,
+    "width": 640,
+    "x": 0,
+    "y": 5361
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9AAC520A-3F7C-4BB8-838D-7D5A09694C69"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF45A846-13DE-40C7-8602-F3448F60D080"
+    },
+    {
+      "class": "text",
+      "id": "A6E5DDAB-D88B-40D9-88C4-5CDA94C40148"
+    },
+    {
+      "class": "text",
+      "id": "9E642993-74FA-46BA-A3FD-A76DF86CF84E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27459908-777F-4CAC-973E-D3F95FF3512A"
+    },
+    {
+      "class": "text",
+      "id": "94A6DB20-71DC-4EA1-B958-D48F679297F4"
+    },
+    {
+      "class": "text",
+      "id": "7D4D7AB7-4DB2-448B-9B93-10372576ABFD"
+    },
+    {
+      "class": "text",
+      "id": "F06966DF-13F7-44D1-B89A-AF4225B2BF1B"
+    },
+    {
+      "class": "bitmap",
+      "id": "F9FD5C3D-F23E-4053-9D20-03C0F32E01D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A14991A-6A10-43A0-8C6A-6144B8AB106F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "707B7B07-E8BA-43F2-99B6-101C41A724DA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 15,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 57,
+    "guttersOutside": false,
+    "horizontalOffset": 132.5,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "component-chapter_TQ-BrainScan/",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C5DCBBAB-F765-4F65-8FA0-7E2027C9DA06",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

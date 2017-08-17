@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "83478215-9ACE-41EE-8B78-869A78F14A21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 255,
+    "width": 640,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 7,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-article-header",
+  "nameIsFixed": false,
+  "overrides": {
+    "125786DE-C8F7-46B0-AD21-42B7ADCF36C1": {
+      "048E0678-9712-4EB1-8F5D-1AD5173DA25B": {
+        "symbolID": "93BB77FB-02C6-462A-BC48-F53D1BAB2F36"
+      },
+      "18E8F08C-68A7-44D2-AD7B-A770EB45D66A": {
+        "symbolID": "93BB77FB-02C6-462A-BC48-F53D1BAB2F36"
+      },
+      "symbolID": "9C0FC529-CC60-401A-973C-58CA4FD8795A"
+    },
+    "36A56A70-0E9C-4959-A805-13700F24D7E5": "Originally a military technology, drones are now benefiting from rapid advances in consumer electronics",
+    "432169C6-274E-4A9E-B163-4997432CBBDC": "Give and take",
+    "4B3193C6-A42C-4FDA-9FED-03E32AC8700A": "TAKING FLIGHT",
+    "6691E4C7-140B-4CA4-A5EF-5D2EA112F06A": "Most drones today are either cheap toys or expensive weapons. But interesting commercial uses are emerging in the middle, says Tom Standage",
+    "D5E1719E-49CE-40E3-B598-E244DDE91A42": "Drone technology has made huge strides",
+    "E31851BD-C338-4D19-9E9A-1F4C0041AB5D": "2"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "702D3547-CD27-468D-8477-32193946C2D2",
+  "verticalSpacing": 0
+}
