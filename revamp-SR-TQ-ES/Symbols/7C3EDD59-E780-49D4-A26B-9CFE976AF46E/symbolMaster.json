@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9292,
+  "changeIdentifier": 9387,
   "do_objectID": "7C3EDD59-E780-49D4-A26B-9CFE976AF46E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,10 +65,6 @@
     {
       "class": "text",
       "id": "02FD04E1-9488-4916-8D26-B14587C5D5C8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CAA6B174-42F1-46F4-9AF1-C691E8C7BACD"
     },
     {
       "class": "symbolInstance",
@@ -89,6 +85,10 @@
     {
       "class": "bitmap",
       "id": "7CA2D22D-BFBC-43D9-B092-433FCD0FF4EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAA6B174-42F1-46F4-9AF1-C691E8C7BACD"
     }
   ],
   "layout": {

@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 236,
+    "width": 235,
     "x": 0,
     "y": 0
   },
@@ -25,10 +25,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "47F62478-6556-42C4-986C-0E0AC727B72F"
-    },
     {
       "class": "symbolInstance",
       "id": "59EE821F-58FA-4984-8E4E-69F88B52208A"
@@ -48,6 +44,10 @@
     {
       "class": "symbolInstance",
       "id": "28160F6A-BCA4-49AF-A95E-EB0064BC4ED9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47F62478-6556-42C4-986C-0E0AC727B72F"
     }
   ],
   "name": "Group",
