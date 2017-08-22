@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 4355,
+  "do_objectID": "016D2010-2FD8-4F13-930C-B3C028588945",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 669,
+    "width": 193,
+    "x": 293,
+    "y": 17302
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "093F639B-EA24-4E43-8FD4-E3325543D0B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "705BC5F3-DBA0-42BA-8D65-02F92259EB3D"
+    },
+    {
+      "class": "bitmap",
+      "id": "1759345E-B88C-498F-A7DA-464385E68529"
+    },
+    {
+      "class": "text",
+      "id": "CFD548CE-8DD8-4C78-9C30-8BF59F233788"
+    },
+    {
+      "class": "text",
+      "id": "1F91586C-9461-415D-A876-05A9528CBE52"
+    },
+    {
+      "class": "text",
+      "id": "7687B7B5-D20E-4418-97B7-1D8792839E39"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 15,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 37.8,
+    "guttersOutside": false,
+    "horizontalOffset": 120,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 279
+  },
+  "name": "component-pullqoute/ES",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DF012853-18D6-421D-8315-1C8C60AFFE96",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

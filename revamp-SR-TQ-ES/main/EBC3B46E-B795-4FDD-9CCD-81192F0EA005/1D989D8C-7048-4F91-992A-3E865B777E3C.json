@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1D989D8C-7048-4F91-992A-3E865B777E3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 639,
+    "x": 223,
+    "y": 735
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "component-article-meta",
+  "nameIsFixed": false,
+  "overrides": {
+    "03C64C88-22C9-4C23-816B-27D47A8D1222": "Print edition | Essay"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7030ED68-5C48-4564-B555-550D3BFBF0A0",
+  "verticalSpacing": 0
+}

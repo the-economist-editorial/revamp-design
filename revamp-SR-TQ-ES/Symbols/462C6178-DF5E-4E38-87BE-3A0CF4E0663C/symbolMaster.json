@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5731,
+  "changeIdentifier": 5781,
   "do_objectID": "462C6178-DF5E-4E38-87BE-3A0CF4E0663C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 1455,
     "width": 580,
     "x": 1140,
-    "y": 5361
+    "y": 5678
   },
   "grid": {
     "_class": "simpleGrid",
@@ -93,6 +93,10 @@
     {
       "class": "symbolInstance",
       "id": "D3328404-8A0A-455F-A675-3797E877608B"
+    },
+    {
+      "class": "bitmap",
+      "id": "BC975224-6D47-42EF-8BF6-FB5CD4E2E67B"
     }
   ],
   "layout": {

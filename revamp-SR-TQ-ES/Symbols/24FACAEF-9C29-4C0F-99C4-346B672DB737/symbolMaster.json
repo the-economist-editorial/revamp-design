@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 121,
+  "changeIdentifier": 1211,
   "do_objectID": "24FACAEF-9C29-4C0F-99C4-346B672DB737",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 124,
     "width": 267,
-    "x": 12673,
-    "y": 0
+    "x": 1904,
+    "y": 5131
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,10 +46,6 @@
     {
       "class": "symbolInstance",
       "id": "DE609689-7FFC-42D0-9DAB-7EE0FC8AD749"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0E339C50-32B3-4C38-9980-84EC58B508AA"
     },
     {
       "class": "symbolInstance",
@@ -78,6 +74,10 @@
     {
       "class": "shapeGroup",
       "id": "D3427B94-C426-4AA7-9D69-0C212E1114D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E339C50-32B3-4C38-9980-84EC58B508AA"
     }
   ],
   "name": "component-chapter/indicator-alternative",

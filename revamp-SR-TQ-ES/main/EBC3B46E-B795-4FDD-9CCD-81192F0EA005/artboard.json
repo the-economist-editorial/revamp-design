@@ -1,0 +1,216 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "EBC3B46E-B795-4FDD-9CCD-81192F0EA005",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10056,
+    "width": 1308,
+    "x": 4500,
+    "y": 186
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 15,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "42AE95C9-42F4-412E-83B4-6438442A3EBD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8145D96F-4E22-4183-80B5-062E1FC1D723"
+    },
+    {
+      "class": "group",
+      "id": "3B53125E-9C73-4085-9C4B-3BE2989F6564"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2DD65E5-08C5-48FF-82B8-F305B0F17ACB"
+    },
+    {
+      "class": "group",
+      "id": "9F21E6B3-41E8-43AE-9321-3EAB05C335A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "539383E2-33FE-4C03-A81D-4489F4F1302E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0960C534-A145-41C9-B8F5-ECC7A8677AA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4467D2BD-CBDE-498F-A058-C4D8771D94B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47F342C2-88B4-44CB-98A1-C5DC7616D0F2"
+    },
+    {
+      "class": "text",
+      "id": "3AF12319-7F6D-429F-84F1-F2759579A4E3"
+    },
+    {
+      "class": "text",
+      "id": "93C37CA1-FA7E-4C6E-9811-E9C173A66D7A"
+    },
+    {
+      "class": "text",
+      "id": "C55C8A5D-8350-4597-9803-4B8355F9D397"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "496B7D24-B0F9-49D5-AFDE-92FE2242362C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D989D8C-7048-4F91-992A-3E865B777E3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E09431EC-43BF-41DB-8F77-A1A48F78B3EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D069AF1F-CB51-4B81-BFB7-74198D9E83C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C6B0509-A7C0-4C44-9964-6C871BC05BFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D63581DA-6B4D-4554-ACB2-063D39098C92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E40E758E-9589-4248-BACA-3B6D49B4652E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D931B34A-B230-4E08-A74C-568972628324"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B27AE2C-FEB3-4F95-BB82-EBFA1707E1D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E65EC431-D9E2-46BE-8216-DC2052E4E431"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "097EF64C-0D6C-4608-B483-2DEFA8710A0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9F1AC0D-CCA8-4B61-AE74-21CA2378AD8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "739E694F-567B-41FA-B318-0D2BC8A664B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39F0D99C-13A4-4737-AA46-4F852070F6FD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 81.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1308
+  },
+  "name": "1308px (max-width) Article ESSAY - Crises",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

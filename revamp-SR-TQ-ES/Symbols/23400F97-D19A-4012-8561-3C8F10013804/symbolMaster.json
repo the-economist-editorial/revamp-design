@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1245,
+  "do_objectID": "23400F97-D19A-4012-8561-3C8F10013804",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 173,
+    "width": 639,
+    "x": 5238,
+    "y": 1061
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7DEE965C-9FF2-432E-9E32-94C0FC190E58"
+    },
+    {
+      "class": "text",
+      "id": "4D20F4F9-541F-4875-ABFA-09874CE0765E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CED202CE-40ED-470A-AE0E-87B9D31B6E15"
+    },
+    {
+      "class": "text",
+      "id": "0D28D2CD-8794-4E3A-A425-4A228680E180"
+    }
+  ],
+  "name": "component-article-header/ES-Suburbs",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "237145B6-6344-43BC-962D-17AC9EC80DF0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5093DC7F-1C71-45CA-A1A4-95069F10EAA9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 218,
+    "x": 111,
+    "y": 85
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 7,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 7,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-header-title/large TQ",
+  "nameIsFixed": true,
+  "overrides": {
+    "809773D9-AB24-4869-A4C9-1ECA7BED66BF": "SPECIAL REPORT",
+    "9DD291D7-B300-479C-BD19-7656173539D4": "ESSAY: THE SUBURBS"
+  },
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DFEECC28-0226-42E3-9737-1BD22A761D21",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "05EACBDA-07A1-4733-A585-7A49B656D5E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 173,
+    "width": 639,
+    "x": 223,
+    "y": 628
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-article-header/ES",
+  "nameIsFixed": false,
+  "overrides": {
+    "0D28D2CD-8794-4E3A-A425-4A228680E180": "The world is becoming ever more suburban, and the better for it",
+    "4D20F4F9-541F-4875-ABFA-09874CE0765E": "Places apart",
+    "E348231B-CEB0-4272-83A5-BD64E33D8E7C": "\nThe world is becoming ever more suburban, and the better for it"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "237145B6-6344-43BC-962D-17AC9EC80DF0",
+  "verticalSpacing": 0
+}

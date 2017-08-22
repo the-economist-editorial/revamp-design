@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1B27AE2C-FEB3-4F95-BB82-EBFA1707E1D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 639,
+    "x": 223,
+    "y": 2913
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-article-header/ES",
+  "nameIsFixed": false,
+  "overrides": {
+    "B994FC38-BDB5-489E-8861-7E5F2925E0B9": "1792: The foundations of modern finance\n"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CFB98A54-8C57-4EF4-A1E3-1E5761B85AFA",
+  "verticalSpacing": 0
+}

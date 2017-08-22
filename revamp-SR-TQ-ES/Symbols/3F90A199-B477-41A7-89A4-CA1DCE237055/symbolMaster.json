@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 999,
+  "changeIdentifier": 1089,
   "do_objectID": "3F90A199-B477-41A7-89A4-CA1DCE237055",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 380,
+    "height": 669,
     "width": 193,
     "x": 0,
-    "y": 16645
+    "y": 17302
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -81,8 +81,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 279
   },
-  "name": "component-pullqoute",
-  "nameIsFixed": false,
+  "name": "component-pullqoute/",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

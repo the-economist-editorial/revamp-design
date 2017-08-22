@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E40E758E-9589-4248-BACA-3B6D49B4652E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 124,
+    "width": 262.763671875,
+    "x": 0,
+    "y": 833
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 14,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-chapter/indicator-alternative",
+  "nameIsFixed": false,
+  "overrides": {
+    "48200487-3CE0-49B6-91B7-1EF9147E9892": "Financial crisis"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B46972BD-5966-4D7C-AD3A-A1149E8C1A7D",
+  "verticalSpacing": 0
+}

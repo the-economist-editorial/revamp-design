@@ -1,0 +1,208 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "EED54EBC-5738-4BDB-97AB-17CB86572190",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10056,
+    "width": 1308,
+    "x": 6116,
+    "y": 186
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 15,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A4892AB1-3F1A-4808-8F71-A4BA902B5928"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCCE6440-DF30-4799-9DA7-C33F0EAC1967"
+    },
+    {
+      "class": "group",
+      "id": "C0ADD5F5-FC1C-45AC-8FA3-207A5E042048"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59D989E9-AA98-446D-A4B3-3DA137EE94FF"
+    },
+    {
+      "class": "group",
+      "id": "C69F882F-3E68-4F48-B913-CF8C6A2F282A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62890F59-3A4C-4430-988E-69D8C9161443"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AAEFDABE-4E77-44B1-9B17-A25EFDBEBE7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95381EC1-1AAD-41AF-92B0-088CB3E3EC12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD834631-10B1-494B-9243-369F0C5F1118"
+    },
+    {
+      "class": "text",
+      "id": "5B647188-5D09-4871-99A0-83642F9E7ED5"
+    },
+    {
+      "class": "text",
+      "id": "33F72530-5A93-4C1B-8AC3-FA8424AC3C20"
+    },
+    {
+      "class": "text",
+      "id": "A80185DC-4663-41E7-826D-68B56AA74524"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A91DFC4-A2FC-4ECF-BF37-10396005E4CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82F7257E-9E9C-4B61-87F6-3449A377C51F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE23257E-9AEA-4F84-82C0-DDC41F06D3D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5D8C1DD-2341-4031-A627-6004278EC234"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9A21DB3-2E19-4E7D-8E2A-CD8E9F5EDF67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E23A186-7A6F-45FC-9784-583D7318D38B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05EACBDA-07A1-4733-A585-7A49B656D5E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68096CFE-117E-4342-A113-59F25379B399"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E8F0B0A-860E-4481-8928-FB9DD81D63AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05BC4CBC-1076-416B-8674-E0A633180DD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5093DC7F-1C71-45CA-A1A4-95069F10EAA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B72FE34-441A-49F6-BD55-F0B6C175D628"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 81.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1308
+  },
+  "name": "1308px (max-width) Article ESSAY - Suburbs",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -7,7 +7,7 @@
     "green": 0.07058823529411765,
     "red": 0.07058823529411765
   },
-  "changeIdentifier": 24265,
+  "changeIdentifier": 24274,
   "do_objectID": "1139DEF4-72EC-4DF2-9275-0C3C926EA1E3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 312,
     "width": 1308,
     "x": 420,
-    "y": 9182
+    "y": 9499
   },
   "grid": {
     "_class": "simpleGrid",
