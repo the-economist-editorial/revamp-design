@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "36402C81-C469-4448-8E97-D60AC2F27541",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 169,
+    "width": 280,
+    "x": 20,
+    "y": 1816
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "Special report chapter Copy 73",
+  "nameIsFixed": false,
+  "overrides": {
+    "1117ED41-E294-44A8-98BC-56F2F8E6B989": "Exit strategy",
+    "887758D1-E5A9-4161-BF66-4FFE6ECFC666": "Leaving the euro would be devilishly difficult"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F5C6F5CD-93AF-486E-8AD6-C05A87FA3F92",
+  "verticalSpacing": 0
+}

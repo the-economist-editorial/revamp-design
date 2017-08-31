@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5D3728CD-9686-4D68-934E-B0F8E84D2E05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 560,
+    "x": 19,
+    "y": 1696
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "Special report chapter Copy 72",
+  "nameIsFixed": false,
+  "overrides": {
+    "1117ED41-E294-44A8-98BC-56F2F8E6B989": "Differentiate or bust",
+    "887758D1-E5A9-4161-BF66-4FFE6ECFC666": "Europe’s future is multi-speed and multi-tier"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F5C6F5CD-93AF-486E-8AD6-C05A87FA3F92",
+  "verticalSpacing": 0
+}
