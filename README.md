@@ -10,7 +10,7 @@
 
 * Click __'clone a repository'__
 
-Enter the repository url in this case:https://github.com/russEco/revamp-design.git
+Enter the repository url in this case:https://github.com/the-economist-editorial/revamp-design.git
 and then set a local path to somewhere that makes sense on your HD.
 
  * Click __'clone'__
