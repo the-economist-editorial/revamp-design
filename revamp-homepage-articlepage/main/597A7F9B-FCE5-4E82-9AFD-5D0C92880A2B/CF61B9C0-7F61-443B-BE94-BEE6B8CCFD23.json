@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 654,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 2,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "component-moreStories__no-images-mob<600",
   "nameIsFixed": false,
   "resizingConstraint": 63,

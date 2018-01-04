@@ -27,9 +27,24 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "component-hero",
   "nameIsFixed": false,
+  "overrides": {
+    "2EB4E71D-4F09-4840-9545-2B2755AA8BCF": {
+      "0958D3A4-2C60-42DC-9FF0-4D52E4AA21D8": {
+        "E985F43E-805F-4B2A-889D-8A15ED0BC3D8": "econsans-md"
+      }
+    },
+    "4C70B8D4-DCB1-4B4E-9409-22D4EFE5B55C": {
+      "79AF5C9B-81E5-4D0A-B133-98D540FF6855": {
+        "4B286E54-D44B-40F2-A600-6BEAE7E86560": "econsans-rg",
+        "8D5DC952-F776-45D2-ABD7-4CBA14BC2C05": "milo-rg"
+      },
+      "94CAC47D-09C3-4837-B197-C27AFD0C2757": {
+      }
+    }
+  },
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 22,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "teaser-single-third:nth2 copy",
   "nameIsFixed": false,
   "overrides": {
@@ -39,7 +39,6 @@
       }
     },
     "FA60CFBB-BE00-42C5-B48C-F99E759C8AEF": {
-      "8D5DC952-F776-45D2-ABD7-4CBA14BC2C05": "The rise of childlessness"
     }
   },
   "resizingConstraint": 63,

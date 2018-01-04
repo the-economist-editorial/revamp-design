@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 35706,
+  "changeIdentifier": 35827,
   "do_objectID": "6F90FA0C-4549-4462-B078-2DFCCD6AE1AF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,7 +29,7 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 15,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
@@ -96,7 +96,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 7,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

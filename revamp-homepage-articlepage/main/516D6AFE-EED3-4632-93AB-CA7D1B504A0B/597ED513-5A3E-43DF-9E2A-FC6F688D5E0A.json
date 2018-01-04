@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 334,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "component-hero",
   "nameIsFixed": false,
   "overrides": {

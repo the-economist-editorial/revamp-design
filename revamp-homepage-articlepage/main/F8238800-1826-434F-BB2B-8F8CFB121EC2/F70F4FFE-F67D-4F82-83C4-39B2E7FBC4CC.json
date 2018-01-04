@@ -27,13 +27,12 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "component-moreStories__images",
   "nameIsFixed": false,
   "overrides": {
     "77B8B1B2-5F84-4134-9117-BCFA6CA35345": {
       "DF9133B5-7207-464F-805E-B092B19C376E": {
-        "8D5DC952-F776-45D2-ABD7-4CBA14BC2C05": "The rise of childlessness"
       }
     },
     "FFE08E09-9AEC-4F6F-8CCA-1F5D5F74A71B": {

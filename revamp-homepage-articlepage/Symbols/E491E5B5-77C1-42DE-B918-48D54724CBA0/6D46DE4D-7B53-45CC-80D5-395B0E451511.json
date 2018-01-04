@@ -30,6 +30,8 @@
   "masterInfluenceEdgeMinYPadding": 3,
   "name": "teaser__group-text",
   "nameIsFixed": false,
+  "overrides": {
+  },
   "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,

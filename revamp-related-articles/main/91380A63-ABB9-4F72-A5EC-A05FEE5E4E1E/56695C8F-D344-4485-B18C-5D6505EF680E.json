@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "56695C8F-D344-4485-B18C-5D6505EF680E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 912.8307692307692,
+    "width": 930,
+    "x": 15,
+    "y": 1476.4892578125
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-moreStories__images",
+  "nameIsFixed": false,
+  "overrides": {
+    "717812DF-A7D5-4704-9781-13BC3D164131": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/d7f108774ba4a56d7ecbe01766ad4ec75eb7284f",
+      "_ref_class": "MSImageData"
+    },
+    "77B8B1B2-5F84-4134-9117-BCFA6CA35345": {
+      "D4E14596-0DF4-4F9A-A48B-A89BF55E43D6": {
+        "FFE08E09-9AEC-4F6F-8CCA-1F5D5F74A71B": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/11806f83718100f3dc12a3098fcb886adb27f107",
+          "_ref_class": "MSImageData"
+        }
+      },
+      "DF9133B5-7207-464F-805E-B092B19C376E": {
+        "4B286E54-D44B-40F2-A600-6BEAE7E86560": "Six big economic ideas",
+        "8D5DC952-F776-45D2-ABD7-4CBA14BC2C05": "Mexico becomes a destination for migrants"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/ac9a6ff89dce101de809f7555f82f6cdf2b1fab2",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "55DF9DDA-DA45-4644-83D9-C49468AFF9E1",
+  "verticalSpacing": 0
+}

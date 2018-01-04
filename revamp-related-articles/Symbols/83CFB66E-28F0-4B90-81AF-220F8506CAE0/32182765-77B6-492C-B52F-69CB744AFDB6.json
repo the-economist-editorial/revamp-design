@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGUFFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFAcIDxAaGxwgKCkqKywzNz9DR0pMVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAE4ADWUZseSB0aXRsZdMREgoTFhlXTlMua2V5c1pOUy5vYmplY3RzohQVgASABaIXGIAGgA6AEl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVXTlNDb2xvctIKHR4fXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOADYAH0xESCiEkJ6IiI4AIgAmiJSaACoALgAxfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEEVjb25TYW5zLVJlZ3VsYXLSLS4vMFokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMvMTJcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00i0uNDVfEBBOU0ZvbnREZXNjcmlwdG9yojYyXxAQTlNGb250RGVzY3JpcHRvctQ4OToKOzw9PlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMSAxIDEAEAGAD4AR0kAKQUJUTlNJRBABgBDSLS5ERVxOU0NvbG9yU3BhY2WiRjJcTlNDb2xvclNwYWNl0i0uSElXTlNDb2xvcqJIMtItLjFLojEy0i0uTU5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiTzJfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRUlNUcm9vdIABAAgAEQAaACMALQAyADcATgBUAFsAZABrAHgAegB8AH4AiACPAJcAogClAKcAqQCsAK4AsACyANQA3ADhAP4BAAECAQkBDAEOARABEwEVARcBGQEvAUUBTgFhAWYBcQF6AZABlAGhAaoBrwHCAcUB2AHhAecB9AIJAhACEgIUAhYCGwIgAiICJAIpAjYCOQJGAksCUwJWAlsCXgJjAngCewKQAqICpQKqAAAAAAAAAgEAAAAAAAAAVAAAAAAAAAAAAAAAAAAAAqw="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "32182765-77B6-492C-B52F-69CB744AFDB6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 260.8828125,
+    "x": -1,
+    "y": -1
+  },
+  "glyphBounds": "{{1, 3}, {37, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Fly title",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "00316877-7533-4477-B764-8077B748B997"
+  },
+  "textBehaviour": 1
+}

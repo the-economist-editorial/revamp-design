@@ -27,13 +27,12 @@
   "masterInfluenceEdgeMaxXPadding": 22,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "component-carousel",
   "nameIsFixed": false,
   "overrides": {
     "4A089C5A-2494-4C8D-ACC4-C2E5F7BBFF31": {
       "0958D3A4-2C60-42DC-9FF0-4D52E4AA21D8": {
-        "E985F43E-805F-4B2A-889D-8A15ED0BC3D8": "Special report"
       }
     }
   },

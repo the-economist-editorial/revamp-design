@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "094FF2E0-0FC2-4E44-AB7B-FF91DF761FF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 360,
+    "width": 974,
+    "x": 0,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-teaser__single-fullWidth",
+  "nameIsFixed": true,
+  "overrides": {
+    "7C7DAA02-F7F1-4483-8C42-B38007619852": {
+    },
+    "EAE01B47-EA6C-4909-A22D-8A22E9B8F73D": {
+      "C70FE8E4-6051-4F58-A2C5-58328C73785F": "This is the rubric text style",
+      "CDF4AFFC-9580-480D-80B9-BD880B7A50AB": "Title"
+    },
+    "EB2647A3-8C40-4DA2-9E7B-E9F543F5C366": {
+      "717812DF-A7D5-4704-9781-13BC3D164131": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f04b94a88f422014b301edbc826e8481628a1dbf",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "053AC9C3-D8A5-49F9-AEEF-B0C4AE811FD5",
+  "verticalSpacing": 0
+}

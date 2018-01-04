@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "296E10C1-BE2C-4C4C-B572-6FD197B3FE28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 507,
+    "width": 930,
+    "x": 15,
+    "y": 2273.4892578125
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "17EA7733-3A17-415C-B362-F50D75B86927"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56C05BDA-0DBF-484A-A59F-075D3BB2C250"
+    }
+  ],
+  "name": "component-carousel",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
