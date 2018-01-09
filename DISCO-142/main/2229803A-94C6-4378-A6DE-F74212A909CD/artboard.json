@@ -1,0 +1,136 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "2229803A-94C6-4378-A6DE-F74212A909CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1406,
+    "width": 320,
+    "x": 14796,
+    "y": 180
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CC266AAE-5203-49BB-A1E6-09217E9C0ADE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98382F38-7553-4FE9-B724-E074164D704A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D647C84-DE6A-461F-A5FD-B3331EE7FB0F"
+    },
+    {
+      "class": "group",
+      "id": "EE9E3E22-4D4F-4B94-8E75-33CA786DC08A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54329F84-8D14-4899-B494-ECFBC9FECBC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E41E9CE-B9ED-4BF4-8168-CD4E88724C8E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 67.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 10,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 300
+  },
+  "name": "DISCO-142 320px (min width)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

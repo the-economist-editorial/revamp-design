@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C1F97547-F2EA-47FA-83C6-BFBDD0306F2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 121,
+    "width": 600,
+    "x": 0,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 124,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "teaser-more-stories",
+  "nameIsFixed": false,
+  "overrides": {
+    "D4E14596-0DF4-4F9A-A48B-A89BF55E43D6": {
+      "717812DF-A7D5-4704-9781-13BC3D164131": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/61397d76bd78f8ae2ba5d022f121da12623e1cfd",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "23ABE98F-E90E-4137-B5C8-F3752F500EC8",
+  "verticalSpacing": 0
+}

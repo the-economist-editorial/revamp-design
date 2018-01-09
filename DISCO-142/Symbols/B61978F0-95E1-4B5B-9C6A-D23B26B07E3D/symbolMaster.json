@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 12751,
+  "do_objectID": "B61978F0-95E1-4B5B-9C6A-D23B26B07E3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 470,
+    "width": 300,
+    "x": 3888,
+    "y": 6972
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 15,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CB3D03C4-C20C-4824-A2EF-B7490E1800AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32B5A130-32FA-4C2B-B9A9-3402E9D7E2FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39E033DB-0A0E-4197-8C19-ED471A6E6A0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5F54179-5164-4E07-8F9D-A7BC3BF3D355"
+    },
+    {
+      "class": "group",
+      "id": "781BF9E2-DEEE-4C18-87C7-11A824DB4001"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20.25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 303
+  },
+  "name": "component-latestupdates/mid copy 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B807AAA7-714E-4E75-8518-52FB5C54E203",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

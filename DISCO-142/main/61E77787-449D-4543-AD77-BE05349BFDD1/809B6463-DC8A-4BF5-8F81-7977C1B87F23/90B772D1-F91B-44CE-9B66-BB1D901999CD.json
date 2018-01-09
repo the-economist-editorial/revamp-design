@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "90B772D1-F91B-44CE-9B66-BB1D901999CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 750,
+    "width": 973.9560546875,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 22,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "component-hero",
+  "nameIsFixed": false,
+  "overrides": {
+    "1EDDA65A-5F64-49AE-9645-A5D3A87E33C7": {
+      "79AF5C9B-81E5-4D0A-B133-98D540FF6855": {
+      },
+      "94CAC47D-09C3-4837-B197-C27AFD0C2757": {
+      }
+    },
+    "2EB4E71D-4F09-4840-9545-2B2755AA8BCF": {
+      "0958D3A4-2C60-42DC-9FF0-4D52E4AA21D8": {
+        "E985F43E-805F-4B2A-889D-8A15ED0BC3D8": "econsans-md"
+      }
+    },
+    "E66EBB13-900B-491F-BC74-F939506DAC9C": {
+      "D86B9C85-EBF4-4156-AF18-4C908E0D9436": {
+        "8887529D-B36B-40E5-A0C7-4D45D49A0F9D": "econsans-rg",
+        "CDF4AFFC-9580-480D-80B9-BD880B7A50AB": "milo-rg"
+      }
+    }
+  },
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "27487AC5-5F14-4B68-8552-654820A8FB5F",
+  "verticalSpacing": 0
+}

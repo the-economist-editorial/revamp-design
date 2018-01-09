@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "0C60ACB3-A6C0-4E77-AC7B-B452CB9D0AE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 840,
+    "width": 1524,
+    "x": 15216,
+    "y": 180
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 15,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31C72825-8624-4FCE-AD5F-BF10D4494EBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81DC538B-28E7-4A1A-918C-656D4ABA5673"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1E13B15-D3D2-4D1A-AAD9-DAC33250D6A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F077EDE8-865B-4305-B28C-D40E8BF877C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E579734-4C03-4184-963A-7256506C1438"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B2B633E-9660-40BE-BCBB-A34AFC915CF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F031BDD-E11C-455D-8639-11EFCD241526"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90203516-2D0E-4037-AAEF-486B1A2EC1A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "782A06BF-58D9-4C70-A3D9-19A2D6FD30E2"
+    },
+    {
+      "class": "text",
+      "id": "74DB0EBC-2EB5-4B44-9282-1F88DA654FD1"
+    },
+    {
+      "class": "text",
+      "id": "1EEC5FB3-8B19-4F67-BA3A-CFE05384B69F"
+    },
+    {
+      "class": "text",
+      "id": "E404A56D-585C-4539-AB68-56E0A997328B"
+    },
+    {
+      "class": "text",
+      "id": "DA7A02DC-018B-41CE-A8CD-38410E32B432"
+    },
+    {
+      "class": "text",
+      "id": "6E329EE6-7A28-4EC9-90F2-05856F0F7999"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 81.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1308
+  },
+  "name": "DISCO-142 Daily chart detail",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -903,
+    "guides": [
+    ]
+  }
+}

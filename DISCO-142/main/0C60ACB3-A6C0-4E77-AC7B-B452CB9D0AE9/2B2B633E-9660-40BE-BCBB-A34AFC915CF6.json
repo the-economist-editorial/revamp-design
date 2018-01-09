@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2B2B633E-9660-40BE-BCBB-A34AFC915CF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 16,
+    "y": 496
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "teaser-single-third:nth2",
+  "nameIsFixed": false,
+  "overrides": {
+    "021D2293-70E5-4728-B5E7-3F7A188971E4": {
+      "4B286E54-D44B-40F2-A600-6BEAE7E86560": "Daily chart",
+      "8D5DC952-F776-45D2-ABD7-4CBA14BC2C05": "The world is more stable than the news suggests"
+    },
+    "35A4333B-DACD-4147-842B-BD613849D97C": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/9833ef1205b31fdc34a99a718e097b3883569fd1",
+      "_ref_class": "MSImageData"
+    },
+    "6CAE88A0-F353-4029-A03F-051CD9DD6121": {
+      "717812DF-A7D5-4704-9781-13BC3D164131": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/61397d76bd78f8ae2ba5d022f121da12623e1cfd",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "C0EC34C3-2ED9-4D4B-B455-D5C9B3BDA3D3": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 14,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2424139492753623,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "5DF037D2-EC8D-40C8-AB73-0600FE7F5208",
+  "verticalSpacing": 0
+}

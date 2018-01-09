@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C3A2EC92-E4FA-49F7-91BD-97D9E5FF8233",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 172,
+    "width": 580,
+    "x": 10,
+    "y": 1442
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component-teaser/single-daily chart copy-horizontal",
+  "nameIsFixed": false,
+  "overrides": {
+    "466C9064-D134-45CF-919F-E605DD93E3D0": {
+      "FFE08E09-9AEC-4F6F-8CCA-1F5D5F74A71B": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e854e30143c2c850e1de9746aa12c26e53ca82b7",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "85A3595C-9C83-4D8F-BCD8-993A39BA2FC2": {
+      "8D5DC952-F776-45D2-ABD7-4CBA14BC2C05": "The world is more stable than the news suggests"
+    },
+    "DBA09285-6A5B-4559-80B3-691A5983C42A": {
+      "C1772BA2-FD37-4FC7-AF73-9B19A3EE13D5": "GRAPHIC DETAIL"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FD691171-D072-44B1-84EC-E460311998B6",
+  "verticalSpacing": 0
+}

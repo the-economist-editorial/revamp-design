@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "C27E1BAF-7BFB-4777-A602-FA48475E69C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 158,
+    "width": 276,
+    "x": 15,
+    "y": 452
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98D0C106-02D6-4DE9-AE0A-F1CCCA0945AE"
+    },
+    {
+      "class": "bitmap",
+      "id": "1165460D-7D4B-4B7F-9913-892E255286C6"
+    }
+  ],
+  "name": "Screen Shot 2018-01-05 at 12.10.53",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2610110960144927,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
